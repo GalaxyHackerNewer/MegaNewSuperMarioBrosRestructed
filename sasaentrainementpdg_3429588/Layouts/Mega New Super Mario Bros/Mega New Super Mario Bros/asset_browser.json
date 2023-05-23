@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "Room19",
+      "path": "rooms/Room19/Room19.yy"
+    },
+    {
+      "name": "Room20",
+      "path": "rooms/Room20/Room20.yy"
+    },
+    {
+      "name": "Room21",
+      "path": "rooms/Room21/Room21.yy"
+    },
+    {
+      "name": "Room23",
+      "path": "rooms/Room23/Room23.yy"
+    },
+    {
+      "name": "Object152",
+      "path": "objects/Object152/Object152.yy"
+    },
+    {
+      "name": "Sprite227",
+      "path": "sprites/Sprite227/Sprite227.yy"
+    },
+    {
+      "name": "Object124",
+      "path": "objects/Object124/Object124.yy"
+    },
+    {
+      "name": "Room11",
+      "path": "rooms/Room11/Room11.yy"
+    },
+    {
+      "name": "Room12",
+      "path": "rooms/Room12/Room12.yy"
+    },
+    {
+      "name": "Room10",
+      "path": "rooms/Room10/Room10.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

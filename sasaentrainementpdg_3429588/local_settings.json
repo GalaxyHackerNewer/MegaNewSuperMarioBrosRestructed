@@ -1,0 +1,23 @@
+{
+    "machine.Runtime Feeds.Remember Modules": 0,
+    "machine.Runtime Feeds.Saved Modules Selection": "base;operagx;operagxYYC;windows",
+    "machine.Object Editor.Confirm Dialogs.convertDnDConfirm": 0,
+    "machine.Object Editor.Confirm Dialogs.eventDeletion": 0,
+    "machine.Object Editor.defaultcomment": "/// @description Insérez la description ici\r\n// Vous pouvez écrire votre code dans cet éditeur\r\n",
+    "machine.Script Editor.defaultcomment": "// Les actifs du script ont changé pour v2.3.0 Voir\r\n// https://help.yoyogames.com/hc/en-us/articles/360005277377 pour plus d’informations",
+    "machine.Platform Settings.operagx.default_package_choice": 0,
+    "cloud.General Settings.Compiling.AutoStopBeforePackage": true,
+    "cloud.General Settings.Confirm Dialogs.stopbeforerun": 0,
+    "cloud.General Settings.ExitConfirmation": 0,
+    "cloud.Room Editor.Confirm Dialogs.invalidDragResources": 0,
+    "cloud.Room Editor.Confirm Dialogs.invalidDragResourcesCreateNewInstanceLayer": 0,
+    "cloud.Sprite Editor.Confirm Dialogs.Confirm Import Dialog": 0,
+    "cloud.Languages.GMLVisual.Convert DnD Confirm": 0,
+    "cloud.Languages.GMLVisual.Delete DnD Node": 0,
+    "cloud.Languages.default_script_pref": 2,
+    "cloud.Image Editor.Confirm Dialogs.frameDeleteConfirm": 0,
+    "cloud.Image Editor.Confirm Dialogs.confirmToolChanges": 1,
+    "cloud.AssetBrowser.Confirm Dialogs.resourceDeleteConfirm": 0,
+    "cloud.AssetBrowser.Confirm Dialogs.resourceOpenAllConfirm": 0,
+    "version": "1.1"
+}
