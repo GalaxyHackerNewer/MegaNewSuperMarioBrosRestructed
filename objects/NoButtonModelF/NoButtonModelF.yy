@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OkButtonModel",
+  "name": "NoButtonModelF",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "okmessagename",
-    "path": "sprites/okmessagename/okmessagename.yy",
+    "name": "NoButtonF",
+    "path": "sprites/NoButtonF/NoButtonF.yy",
   },
   "spriteMaskId": null,
   "visible": true,

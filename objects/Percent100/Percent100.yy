@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OkButtonModel",
+  "name": "Percent100",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ButtonsModels",
-    "path": "folders/Objets/ButtonsModels.yy",
+    "name": "Loading",
+    "path": "folders/Objets/Loading.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "okmessagename",
-    "path": "sprites/okmessagename/okmessagename.yy",
+    "name": "loading100percentmessagename",
+    "path": "sprites/loading100percentmessagename/loading100percentmessagename.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OkButtonModel",
+  "name": "SdCardAnimModel",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":59,"eventType":7,"isDnD":true,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ButtonsModels",
-    "path": "folders/Objets/ButtonsModels.yy",
+    "name": "AnimModel",
+    "path": "folders/Objets/AnimModel.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,10 +27,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "okmessagename",
-    "path": "sprites/okmessagename/okmessagename.yy",
+    "name": "SdCardAnim",
+    "path": "sprites/SdCardAnim/SdCardAnim.yy",
   },
   "spriteMaskId": null,
   "visible": true,

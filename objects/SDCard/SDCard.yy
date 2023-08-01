@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OkButtonModel",
+  "name": "SDCard",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ButtonsModels",
-    "path": "folders/Objets/ButtonsModels.yy",
+    "name": "Decorations",
+    "path": "folders/Objets/Decorations.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "okmessagename",
-    "path": "sprites/okmessagename/okmessagename.yy",
+    "name": "SdCardNoAnim",
+    "path": "sprites/SdCardNoAnim/SdCardNoAnim.yy",
   },
   "spriteMaskId": null,
   "visible": true,
