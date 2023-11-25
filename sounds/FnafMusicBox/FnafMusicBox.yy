@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 3,
   "conversionMode": 0,
-  "duration": 18.782042,
+  "duration": 62.09306,
   "parent": {
     "name": "Sons",
     "path": "folders/Sons.yy",
   },
   "preload": false,
-  "sampleRate": 48000,
+  "sampleRate": 44100,
   "soundFile": "FnafMusicBox.mp3",
-  "type": 1,
+  "type": 0,
   "volume": 1.0,
 }
