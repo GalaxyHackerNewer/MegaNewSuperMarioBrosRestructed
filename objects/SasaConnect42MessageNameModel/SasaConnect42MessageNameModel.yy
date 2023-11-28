@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage0",
+  "name": "SasaConnect42MessageNameModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessagea",
-    "path": "sprites/datamessagea/datamessagea.yy",
+    "name": "SasaConnect42MessageName",
+    "path": "sprites/SasaConnect42MessageName/SasaConnect42MessageName.yy",
   },
   "spriteMaskId": null,
   "visible": true,

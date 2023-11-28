@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage0",
+  "name": "EnglishFlagModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "FlagsModels",
+    "path": "folders/Objets/FlagsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,9 +26,12 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessagea",
-    "path": "sprites/datamessagea/datamessagea.yy",
+    "name": "EnglishFlag",
+    "path": "sprites/EnglishFlag/EnglishFlag.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "EnglishFlag",
+    "path": "sprites/EnglishFlag/EnglishFlag.yy",
+  },
   "visible": true,
 }

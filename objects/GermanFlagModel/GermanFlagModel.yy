@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage0",
+  "name": "GermanFlagModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "FlagsModels",
+    "path": "folders/Objets/FlagsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessagea",
-    "path": "sprites/datamessagea/datamessagea.yy",
+    "name": "GermanFlag",
+    "path": "sprites/GermanFlag/GermanFlag.yy",
   },
   "spriteMaskId": null,
   "visible": true,

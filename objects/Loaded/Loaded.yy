@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "lodadedmessagename",
-    "path": "sprites/lodadedmessagename/lodadedmessagename.yy",
+    "name": "loadedmessagename",
+    "path": "sprites/loadedmessagename/loadedmessagename.yy",
   },
   "spriteMaskId": null,
   "visible": true,

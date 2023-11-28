@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessageB",
-    "path": "sprites/datamessageB/datamessageB.yy",
+    "name": "datamessageb",
+    "path": "sprites/datamessageb/datamessageb.yy",
   },
   "spriteMaskId": null,
   "visible": true,

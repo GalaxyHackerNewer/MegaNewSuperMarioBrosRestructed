@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage0",
-  "eventList": [],
+  "name": "NoButtonIModel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "ButtonsModels",
+    "path": "folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessagea",
-    "path": "sprites/datamessagea/datamessagea.yy",
+    "name": "NoButtonI",
+    "path": "sprites/NoButtonI/NoButtonI.yy",
   },
   "spriteMaskId": null,
   "visible": true,

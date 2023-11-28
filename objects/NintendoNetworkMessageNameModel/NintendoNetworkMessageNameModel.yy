@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage0",
+  "name": "NintendoNetworkMessageNameModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessagea",
-    "path": "sprites/datamessagea/datamessagea.yy",
+    "name": "NintendoNetworkMessageName",
+    "path": "sprites/NintendoNetworkMessageName/NintendoNetworkMessageName.yy",
   },
   "spriteMaskId": null,
   "visible": true,
