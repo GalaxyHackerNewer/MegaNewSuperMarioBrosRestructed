@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "YesButtonDModel",
+  "name": "YesButtonIModel",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
   ],
@@ -26,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "YesButtonD",
-    "path": "sprites/YesButtonD/YesButtonD.yy",
+    "name": "YesButtonI",
+    "path": "sprites/YesButtonI/YesButtonI.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "YesButtonDModel",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
-  ],
+  "name": "StreetPassMessageNameModel",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ButtonsModels",
-    "path": "folders/Objets/ButtonsModels.yy",
+    "name": "Message",
+    "path": "folders/Objets/Message.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,10 +24,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
-    "name": "YesButtonD",
-    "path": "sprites/YesButtonD/YesButtonD.yy",
+    "name": "StreetPassMessageName",
+    "path": "sprites/StreetPassMessageName/StreetPassMessageName.yy",
   },
   "spriteMaskId": null,
   "visible": true,
