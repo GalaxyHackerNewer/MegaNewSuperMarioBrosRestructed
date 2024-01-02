@@ -6,10 +6,26 @@
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
-  "instanceCreationOrder": [],
+  "instanceCreationOrder": [
+    {"name":"inst_184177F8","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+    {"name":"inst_60F3F7F","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+    {"name":"inst_5DF7631","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+    {"name":"inst_64EE10CA","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+    {"name":"inst_ED4F60E","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+    {"name":"inst_65EDD67E","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+    {"name":"inst_5285C6F9","path":"rooms/MovieNightInFreddyFazbearPizzeriaPowerCutRoom/MovieNightInFreddyFazbearPizzeriaPowerCutRoom.yy",},
+  ],
   "isDnd": false,
   "layers": [
-    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
+    {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_184177F8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"RetCastleFloor","path":"objects/RetCastleFloor/RetCastleFloor.yy",},"properties":[],"rotation":0.0,"scaleX":43.0,"scaleY":3.0,"x":0.0,"y":0.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_60F3F7F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"RetCastleFloor","path":"objects/RetCastleFloor/RetCastleFloor.yy",},"properties":[],"rotation":0.0,"scaleX":3.0,"scaleY":21.0,"x":0.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5DF7631","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"RetCastleFloor","path":"objects/RetCastleFloor/RetCastleFloor.yy",},"properties":[],"rotation":0.0,"scaleX":40.0,"scaleY":2.0,"x":96.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_64EE10CA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"HatenaBlueBlockSwitchModel","path":"objects/HatenaBlueBlockSwitchModel/HatenaBlueBlockSwitchModel.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":19.0,"x":1312.0,"y":96.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_ED4F60E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"DoorWarp0CModel","path":"objects/DoorWarp0CModel/DoorWarp0CModel.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":3.0,"x":1152.0,"y":512.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_65EDD67E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"DoorCloseModel","path":"objects/DoorCloseModel/DoorCloseModel.yy",},"properties":[],"rotation":0.0,"scaleX":2.0,"scaleY":2.5,"x":160.0,"y":576.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5285C6F9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"StickmanMovieTestModel","path":"objects/StickmanMovieTestModel/StickmanMovieTestModel.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":672.0,},
+      ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
   "parent": {
