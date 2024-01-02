@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "NoButtonGModel",
+  "name": "NoButtonMModel",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "NoButtonH",
-    "path": "sprites/NoButtonH/NoButtonH.yy",
+    "name": "NoButtonM",
+    "path": "sprites/NoButtonM/NoButtonM.yy",
   },
   "spriteMaskId": null,
   "visible": true,
