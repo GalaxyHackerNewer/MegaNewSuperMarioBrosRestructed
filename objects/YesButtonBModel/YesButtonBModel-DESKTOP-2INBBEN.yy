@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "wiiconnect24messagemodel",
-  "eventList": [],
+  "name": "YesButtonBModel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "ButtonsModels",
+    "path": "folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -24,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "wiiconnect24messagename",
-    "path": "sprites/wiiconnect24messagename/wiiconnect24messagename.yy",
+    "name": "YesButtonB",
+    "path": "sprites/YesButtonB/YesButtonB.yy",
   },
   "spriteMaskId": null,
   "visible": true,

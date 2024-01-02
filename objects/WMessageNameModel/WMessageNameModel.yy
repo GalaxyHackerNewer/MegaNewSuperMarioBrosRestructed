@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "wiiconnect24messagemodel",
+  "name": "WMessageNameModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "wiiconnect24messagename",
-    "path": "sprites/wiiconnect24messagename/wiiconnect24messagename.yy",
+    "name": "LetterWmessagename",
+    "path": "sprites/LetterWmessagename/LetterWmessagename.yy",
   },
   "spriteMaskId": null,
   "visible": true,
