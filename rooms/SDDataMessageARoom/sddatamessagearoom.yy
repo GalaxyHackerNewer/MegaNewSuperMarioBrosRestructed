@@ -13,6 +13,7 @@
     {"name":"inst_5696A352","path":"rooms/sddatamessagearoom/sddatamessagearoom.yy",},
     {"name":"inst_16A9121F","path":"rooms/sddatamessagearoom/sddatamessagearoom.yy",},
     {"name":"inst_7D58D970","path":"rooms/sddatamessagearoom/sddatamessagearoom.yy",},
+    {"name":"inst_58EE9178","path":"rooms/sddatamessagearoom/sddatamessagearoom.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -23,6 +24,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5696A352","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"SdMessage2","path":"objects/SdMessage2/SdMessage2.yy",},"properties":[],"rotation":0.0,"scaleX":4.0,"scaleY":3.0,"x":736.0,"y":480.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_16A9121F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"RedButtonModel","path":"objects/RedButtonModel/RedButtonModel.yy",},"properties":[],"rotation":0.0,"scaleX":4.5,"scaleY":1.0,"x":800.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7D58D970","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"OkButtonModel","path":"objects/OkButtonModel/OkButtonModel.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":2.5,"x":864.0,"y":640.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_58EE9178","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"SDCardNoAnimModel","path":"objects/SDCardNoAnimModel/SDCardNoAnimModel.yy",},"properties":[],"rotation":0.0,"scaleX":3.5,"scaleY":4.0,"x":1088.0,"y":320.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background","animationFPS":3.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"BlackBackground","path":"sprites/BlackBackground/BlackBackground.yy",},"stretch":true,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
