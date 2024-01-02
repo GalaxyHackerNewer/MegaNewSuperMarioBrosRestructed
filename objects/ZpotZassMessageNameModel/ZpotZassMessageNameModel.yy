@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "ZpotZassMessageName",
-    "path": "sprites/ZpotZassMessageName/ZpotZassMessageName.yy",
+    "name": "zpotzassmessagename",
+    "path": "sprites/zpotzassmessagename/zpotzassmessagename.yy",
   },
   "spriteMaskId": null,
   "visible": true,

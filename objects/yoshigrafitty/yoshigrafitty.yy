@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ZtreetZassMessageNameModel",
+  "name": "yoshigrafitty",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "StructsModels",
+    "path": "folders/Objets/StructsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -24,14 +24,11 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "ztreetzassmessagename",
-    "path": "sprites/ztreetzassmessagename/ztreetzassmessagename.yy",
+    "name": "YoshiGrafitty",
+    "path": "sprites/YoshiGrafitty/YoshiGrafitty.yy",
   },
-  "spriteMaskId": {
-    "name": "ztreetzassmessagename",
-    "path": "sprites/ztreetzassmessagename/ztreetzassmessagename.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

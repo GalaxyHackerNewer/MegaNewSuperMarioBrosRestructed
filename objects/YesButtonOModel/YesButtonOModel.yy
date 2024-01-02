@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ZtreetZassMessageNameModel",
-  "eventList": [],
+  "name": "YesButtonOModel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "ButtonsModels",
+    "path": "folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,12 +28,9 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "ztreetzassmessagename",
-    "path": "sprites/ztreetzassmessagename/ztreetzassmessagename.yy",
+    "name": "YesButtonO",
+    "path": "sprites/YesButtonO/YesButtonO.yy",
   },
-  "spriteMaskId": {
-    "name": "ztreetzassmessagename",
-    "path": "sprites/ztreetzassmessagename/ztreetzassmessagename.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }
