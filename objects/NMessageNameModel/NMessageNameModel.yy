@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "NoButtonBModel",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,},
-  ],
+  "name": "NMessageNameModel",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "ButtonsModels",
-    "path": "folders/Objets/ButtonsModels.yy",
+    "name": "Message",
+    "path": "folders/Objets/Message.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "NoButtonB",
-    "path": "sprites/NoButtonB/NoButtonB.yy",
+    "name": "LetterNmessagename",
+    "path": "sprites/LetterNmessagename/LetterNmessagename.yy",
   },
   "spriteMaskId": null,
   "visible": true,
