@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Percent100Model",
+  "name": "PM64ParaPostManNokoNokoIntroOverlayModel",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Loaded",
-    "path": "folders/Objets/Loaded.yy",
+    "name": "OverlayModel",
+    "path": "folders/Objets/OverlayModel.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "loaded100percentmessagename",
-    "path": "sprites/loaded100percentmessagename/loaded100percentmessagename.yy",
+    "name": "PM64ParaPostManNokoNokoIntroOverlay",
+    "path": "sprites/PM64ParaPostManNokoNokoIntroOverlay/PM64ParaPostManNokoNokoIntroOverlay.yy",
   },
   "spriteMaskId": null,
   "visible": true,

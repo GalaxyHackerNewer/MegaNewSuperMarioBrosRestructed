@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Percent100Model",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,},
-  ],
+  "name": "REALgrassblockwallmodel",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Loaded",
-    "path": "folders/Objets/Loaded.yy",
+    "name": "BlocsModels",
+    "path": "folders/Objets/BlocsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "loaded100percentmessagename",
-    "path": "sprites/loaded100percentmessagename/loaded100percentmessagename.yy",
+    "name": "REALgrassblockwall",
+    "path": "sprites/REALgrassblockwall/REALgrassblockwall.yy",
   },
   "spriteMaskId": null,
   "visible": true,

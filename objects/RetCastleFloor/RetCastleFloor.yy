@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "defaultfloorblock",
-    "path": "sprites/defaultfloorblock/defaultfloorblock.yy",
+    "name": "DefaultFloorBlock",
+    "path": "sprites/DefaultFloorBlock/DefaultFloorBlock.yy",
   },
   "spriteMaskId": null,
   "visible": true,
