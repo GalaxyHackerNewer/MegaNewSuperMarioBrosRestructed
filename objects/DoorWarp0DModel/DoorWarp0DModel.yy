@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage1",
-  "eventList": [],
+  "name": "DoorWarp0DModel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"StickmanMovieTestModel","path":"objects/StickmanMovieTestModel/StickmanMovieTestModel.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "DecoModels",
+    "path": "folders/Objets/DecoModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessageB",
-    "path": "sprites/datamessageB/datamessageB.yy",
+    "name": "DoorWarp0D",
+    "path": "sprites/DoorWarp0D/DoorWarp0D.yy",
   },
   "spriteMaskId": null,
   "visible": true,

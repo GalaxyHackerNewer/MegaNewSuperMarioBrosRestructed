@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage1",
+  "name": "DaisyFlowerModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "DecoModels",
+    "path": "folders/Objets/DecoModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessageB",
-    "path": "sprites/datamessageB/datamessageB.yy",
+    "name": "DaisyFlower",
+    "path": "sprites/DaisyFlower/DaisyFlower.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,13 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "DataMessage1",
-  "eventList": [],
+  "name": "DoorWarp0HModel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "DecoModels",
+    "path": "folders/Objets/DecoModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "datamessageB",
-    "path": "sprites/datamessageB/datamessageB.yy",
+    "name": "DoorWarp0H",
+    "path": "sprites/DoorWarp0H/DoorWarp0H.yy",
   },
   "spriteMaskId": null,
   "visible": true,
