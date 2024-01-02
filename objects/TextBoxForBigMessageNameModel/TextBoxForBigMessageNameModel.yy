@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "StreetPassMessageNameModel",
+  "name": "TextBoxForBigMessageNameModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "Boxs",
+    "path": "folders/Objets/Boxs.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "streetpassmessagename",
-    "path": "sprites/streetpassmessagename/streetpassmessagename.yy",
+    "name": "TextBoxForBigMessage",
+    "path": "sprites/TextBoxForBigMessage/TextBoxForBigMessage.yy",
   },
   "spriteMaskId": null,
   "visible": true,

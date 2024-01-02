@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "StreetPassMessageNameModel",
+  "name": "WaterWarpNoLevelModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "DecoModels",
+    "path": "folders/Objets/DecoModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "streetpassmessagename",
-    "path": "sprites/streetpassmessagename/streetpassmessagename.yy",
+    "name": "WaterWarpNoLevel",
+    "path": "sprites/WaterWarpNoLevel/WaterWarpNoLevel.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "StreetPassMessageNameModel",
+  "name": "tinydesertpaintingmodel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "PaintingsModels",
+    "path": "folders/Objets/PaintingsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "streetpassmessagename",
-    "path": "sprites/streetpassmessagename/streetpassmessagename.yy",
+    "name": "tinydesertpainting",
+    "path": "sprites/tinydesertpainting/tinydesertpainting.yy",
   },
   "spriteMaskId": null,
   "visible": true,
