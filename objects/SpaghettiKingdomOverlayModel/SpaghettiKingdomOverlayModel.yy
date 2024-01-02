@@ -1,13 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "SpotPassMessageNameModel",
-  "eventList": [],
+  "name": "SpaghettiKingdomOverlayModel",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":83,"eventType":5,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "OverlayModel",
+    "path": "folders/Objets/OverlayModel.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spotpassmessagename",
-    "path": "sprites/spotpassmessagename/spotpassmessagename.yy",
+    "name": "SpaghettiKingdomOverlay",
+    "path": "sprites/SpaghettiKingdomOverlay/SpaghettiKingdomOverlay.yy",
   },
   "spriteMaskId": null,
   "visible": true,

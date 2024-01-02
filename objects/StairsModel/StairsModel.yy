@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "SpotPassMessageNameModel",
+  "name": "StairsModel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "BlocsModels",
+    "path": "folders/Objets/BlocsModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spotpassmessagename",
-    "path": "sprites/spotpassmessagename/spotpassmessagename.yy",
+    "name": "Stairs",
+    "path": "sprites/Stairs/Stairs.yy",
   },
   "spriteMaskId": null,
   "visible": true,

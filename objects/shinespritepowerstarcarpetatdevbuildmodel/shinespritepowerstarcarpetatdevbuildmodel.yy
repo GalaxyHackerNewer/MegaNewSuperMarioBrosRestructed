@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "SpotPassMessageNameModel",
+  "name": "shinespritepowerstarcarpetatdevbuildmodel",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Message",
-    "path": "folders/Objets/Message.yy",
+    "name": "DecoModels",
+    "path": "folders/Objets/DecoModels.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "spotpassmessagename",
-    "path": "sprites/spotpassmessagename/spotpassmessagename.yy",
+    "name": "ShineSpritePowerStarCarpetAtEndDevBuild",
+    "path": "sprites/ShineSpritePowerStarCarpetAtEndDevBuild/ShineSpritePowerStarCarpetAtEndDevBuild.yy",
   },
   "spriteMaskId": null,
   "visible": true,
