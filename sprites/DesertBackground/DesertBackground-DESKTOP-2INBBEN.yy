@@ -1,8 +1,8 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "DefaultFloorBlock",
-  "bbox_bottom": 31,
+  "name": "DesertBackground",
+  "bbox_bottom": 23,
   "bbox_left": 0,
   "bbox_right": 31,
   "bbox_top": 0,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"960c3960-0989-494c-8ada-ccaf97edd4b8",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9fc406ba-76c9-4dbd-9433-ec4de6bb9c42",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 24,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5e9994e5-6ba4-422c-bf30-21026bb50235","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5a2fa6fd-ff4c-4b55-8737-a8edc7a9f338","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "mega-new-super-mario-bros-restructed",
-    "path": "mega-new-super-mario-bros-restructed.yyp",
+    "name": "Backgrounds",
+    "path": "folders/Sprites/Backgrounds.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "DefaultFloorBlock",
+    "name": "DesertBackground",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"960c3960-0989-494c-8ada-ccaf97edd4b8","path":"sprites/DefaultFloorBlock/DefaultFloorBlock.yy",},},},"Disabled":false,"id":"b8f50c26-f966-4963-a0b3-2c24add038e4","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9fc406ba-76c9-4dbd-9433-ec4de6bb9c42","path":"sprites/DesertBackground/DesertBackground.yy",},},},"Disabled":false,"id":"0ca637f4-3017-4c3b-ab02-054dd2de496a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
