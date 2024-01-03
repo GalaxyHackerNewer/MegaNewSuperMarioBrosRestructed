@@ -1,9 +1,9 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "maindevlopperplumberold",
+  "name": "MeadowsBackground",
   "bbox_bottom": 31,
-  "bbox_left": 3,
+  "bbox_left": 0,
   "bbox_right": 31,
   "bbox_top": 0,
   "bboxMode": 0,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ca970ce-837b-43de-bf27-c61b15c83d87",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"67fa7f6c-fc2d-409d-8570-5ac18ea022fe",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 32,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"606d37bd-b15b-41f4-bab9-7c08e169880c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f35416bd-1d27-4bbc-9a39-22286ba07439","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "mega-new-super-mario-bros-restructed",
-    "path": "mega-new-super-mario-bros-restructed.yyp",
+    "name": "Backgrounds",
+    "path": "folders/Sprites/Backgrounds.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "maindevlopperplumberold",
+    "name": "MeadowsBackground",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6ca970ce-837b-43de-bf27-c61b15c83d87","path":"sprites/maindevlopperplumberold/maindevlopperplumberold.yy",},},},"Disabled":false,"id":"0de8e8de-0e43-4b7e-abf0-8283a26a27d0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"67fa7f6c-fc2d-409d-8570-5ac18ea022fe","path":"sprites/MeadowsBackground/MeadowsBackground.yy",},},},"Disabled":false,"id":"e50acffd-2762-4015-a3fd-f2a986d482ab","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

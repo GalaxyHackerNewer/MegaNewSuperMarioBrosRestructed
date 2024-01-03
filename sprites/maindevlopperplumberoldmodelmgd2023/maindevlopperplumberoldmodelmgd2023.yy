@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "maindevlopperplumberold",
-  "bbox_bottom": 31,
-  "bbox_left": 3,
-  "bbox_right": 31,
+  "name": "maindevlopperplumberoldmodelmgd2023",
+  "bbox_bottom": 287,
+  "bbox_left": 26,
+  "bbox_right": 285,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6ca970ce-837b-43de-bf27-c61b15c83d87",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c7e7ca12-02e2-4ba3-844a-dd24cf14c279",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 288,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"606d37bd-b15b-41f4-bab9-7c08e169880c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9c8fde57-22fa-49ce-b524-3af48580fcc4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "mega-new-super-mario-bros-restructed",
-    "path": "mega-new-super-mario-bros-restructed.yyp",
+    "name": "maindevlopperplumberold",
+    "path": "folders/Sprites/mainplayablecharacmale/maindevlopperplumberold.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "maindevlopperplumberold",
+    "name": "maindevlopperplumberoldmodelmgd2023",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6ca970ce-837b-43de-bf27-c61b15c83d87","path":"sprites/maindevlopperplumberold/maindevlopperplumberold.yy",},},},"Disabled":false,"id":"0de8e8de-0e43-4b7e-abf0-8283a26a27d0","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c7e7ca12-02e2-4ba3-844a-dd24cf14c279","path":"sprites/maindevlopperplumberoldmodelmgd2023/maindevlopperplumberoldmodelmgd2023.yy",},},},"Disabled":false,"id":"de386404-0800-4da3-b450-cd62c934c5a2","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 288,
 }
