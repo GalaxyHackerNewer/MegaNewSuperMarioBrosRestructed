@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "FnafMusicBox",
+  "name": "StickmanTestMovieVoice",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 3,
   "conversionMode": 0,
-  "duration": 18.782042,
+  "duration": 7.343923,
   "parent": {
     "name": "Sons",
     "path": "folders/Sons.yy",
   },
   "preload": false,
-  "sampleRate": 48000,
-  "soundFile": "FnafMusicBox.mp3",
+  "sampleRate": 44100,
+  "soundFile": "StickmanTestMovieVoice.wav",
   "type": 1,
   "volume": 1.0,
 }
