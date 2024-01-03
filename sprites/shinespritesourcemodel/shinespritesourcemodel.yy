@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "SecretCourseBackground",
-  "bbox_bottom": 23,
-  "bbox_left": 0,
-  "bbox_right": 31,
+  "name": "shinespritesourcemodel",
+  "bbox_bottom": 99,
+  "bbox_left": 9,
+  "bbox_right": 86,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2fbbd93b-5c53-4b73-9456-6ce5f3d6b71a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c9d1d8a3-a66a-4b03-95d8-2d888314a34b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 24,
+  "height": 100,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cb9f1f92-fac1-4926-8535-cd1cf68647ec","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3f7479e9-83ba-4122-a2d5-a0b46318c5ba","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Backgrounds",
-    "path": "folders/Sprites/Backgrounds.yy",
+    "name": "Structs",
+    "path": "folders/Sprites/Structs.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "SecretCourseBackground",
+    "name": "shinespritesourcemodel",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2fbbd93b-5c53-4b73-9456-6ce5f3d6b71a","path":"sprites/SecretCourseBackground/SecretCourseBackground.yy",},},},"Disabled":false,"id":"2936f5a2-aa53-47c9-8201-2747b6c84296","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c9d1d8a3-a66a-4b03-95d8-2d888314a34b","path":"sprites/shinespritesourcemodel/shinespritesourcemodel.yy",},},},"Disabled":false,"id":"bbd5b366-5f7e-4563-a636-7c3408cb9420","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 100,
 }
