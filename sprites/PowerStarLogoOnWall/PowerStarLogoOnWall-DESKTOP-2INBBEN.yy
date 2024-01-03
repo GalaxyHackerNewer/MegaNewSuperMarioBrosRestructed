@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "PowerStarLogoOnWall",
-  "bbox_bottom": 18,
-  "bbox_left": 11,
-  "bbox_right": 17,
-  "bbox_top": 11,
+  "bbox_bottom": 110,
+  "bbox_left": 10,
+  "bbox_right": 116,
+  "bbox_top": 8,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"6a312bd3-8855-4490-9b6e-385696eabc8a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"f732d4cd-0422-40d1-b811-ba2f3e831bec",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5eafeb42-4adc-4dd4-ab71-9fed317364b0","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"ccef0c92-f6bc-4db9-baaa-9c65f708b3bd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "mega-new-super-mario-bros-restructed",
-    "path": "mega-new-super-mario-bros-restructed.yyp",
+    "name": "Structs",
+    "path": "folders/Sprites/Structs.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"6a312bd3-8855-4490-9b6e-385696eabc8a","path":"sprites/PowerStarLogoOnWall/PowerStarLogoOnWall.yy",},},},"Disabled":false,"id":"0176641e-3313-4b39-864e-69b01adcb37d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"f732d4cd-0422-40d1-b811-ba2f3e831bec","path":"sprites/PowerStarLogoOnWall/PowerStarLogoOnWall.yy",},},},"Disabled":false,"id":"ac433669-95f0-4a93-856b-4252fa385992","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 128,
 }
