@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63a6aa2e-6741-48f4-9a95-1b4b859ef123",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"30bab17c-1cb6-437f-8e98-28773da647ed",},
   ],
   "gridX": 0,
   "gridY": 0,
   "height": 144,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5c625d51-dd36-4930-a733-5bdb1b76dcf6","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"75ed1118-08f7-4027-b156-4b441461c84c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "mega-new-super-mario-bros-restructed",
-    "path": "mega-new-super-mario-bros-restructed.yyp",
+    "name": "Collectables",
+    "path": "folders/Sprites/Collectables.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"63a6aa2e-6741-48f4-9a95-1b4b859ef123","path":"sprites/GrandStar/GrandStar.yy",},},},"Disabled":false,"id":"86d30970-9416-423c-a930-41c4c948e939","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"30bab17c-1cb6-437f-8e98-28773da647ed","path":"sprites/GrandStar/GrandStar.yy",},},},"Disabled":false,"id":"b49b949f-6650-4418-a2f2-8480ccb0d100","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "GrandStar",
-  "bbox_bottom": 143,
+  "name": "GermanFlag",
+  "bbox_bottom": 79,
   "bbox_left": 0,
-  "bbox_right": 149,
+  "bbox_right": 132,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"63a6aa2e-6741-48f4-9a95-1b4b859ef123",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"915784bf-9a84-4af9-9c86-1704ffb37ec1",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 144,
+  "height": 80,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5c625d51-dd36-4930-a733-5bdb1b76dcf6","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3f6244f2-c671-4208-a888-d953a5edd8b1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "mega-new-super-mario-bros-restructed",
-    "path": "mega-new-super-mario-bros-restructed.yyp",
+    "name": "Flags",
+    "path": "folders/Sprites/Flags.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "GrandStar",
+    "name": "GermanFlag",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"63a6aa2e-6741-48f4-9a95-1b4b859ef123","path":"sprites/GrandStar/GrandStar.yy",},},},"Disabled":false,"id":"86d30970-9416-423c-a930-41c4c948e939","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"915784bf-9a84-4af9-9c86-1704ffb37ec1","path":"sprites/GermanFlag/GermanFlag.yy",},},},"Disabled":false,"id":"8a280f90-9b5f-4ec1-afdb-a1cf300e58fd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 150,
+  "width": 133,
 }
