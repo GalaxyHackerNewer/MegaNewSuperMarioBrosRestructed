@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"SpotPassMessageNameModel",
+  "%Name":"SpainFlagModel0",
   "eventList":[],
   "managed":true,
-  "name":"SpotPassMessageNameModel",
+  "name":"SpainFlagModel0",
   "overriddenProperties":[],
   "parent":{
-    "name":"Message",
-    "path":"folders/Objets/Message.yy",
+    "name":"FlagsModels",
+    "path":"folders/Objets/FlagsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spotpassmessagename",
-    "path":"sprites/spotpassmessagename/spotpassmessagename.yy",
+    "name":"SpainFlag",
+    "path":"sprites/SpainFlag/SpainFlag.yy",
   },
   "spriteMaskId":null,
   "visible":true,

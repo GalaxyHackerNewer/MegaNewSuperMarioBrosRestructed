@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"SpaghettiKingdomOverlayModel",
+  "%Name":"SM63SecretCourseOverlayModel",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":5,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SpaghettiKingdomOverlayModel",
+  "name":"SM63SecretCourseOverlayModel",
   "overriddenProperties":[],
   "parent":{
     "name":"OverlayModel",
@@ -31,9 +31,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SpaghettiKingdomOverlay",
-    "path":"sprites/SpaghettiKingdomOverlay/SpaghettiKingdomOverlay.yy",
+    "name":"SM63SecretCourseOverlay",
+    "path":"sprites/SM63SecretCourseOverlay/SM63SecretCourseOverlay.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"SM63SecretCourseOverlay",
+    "path":"sprites/SM63SecretCourseOverlay/SM63SecretCourseOverlay.yy",
+  },
   "visible":true,
 }
