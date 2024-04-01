@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarp0IModel",
+  "%Name":"cometcoinmodel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":85,"eventType":10,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"DoorWarp0IModel",
+  "name":"cometcoinmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"CollectablesModels",
+    "path":"folders/Objets/CollectablesModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DoorWarp0I",
-    "path":"sprites/DoorWarp0I/DoorWarp0I.yy",
+    "name":"cometcoin",
+    "path":"sprites/cometcoin/cometcoin.yy",
   },
   "spriteMaskId":null,
   "visible":true,

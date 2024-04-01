@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarp0IModel",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"dirtblockmodel",
+  "eventList":[],
   "managed":true,
-  "name":"DoorWarp0IModel",
+  "name":"dirtblockmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"BlocsModels",
+    "path":"folders/Objets/BlocsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DoorWarp0I",
-    "path":"sprites/DoorWarp0I/DoorWarp0I.yy",
+    "name":"dirtblock",
+    "path":"sprites/dirtblock/dirtblock.yy",
   },
   "spriteMaskId":null,
   "visible":true,

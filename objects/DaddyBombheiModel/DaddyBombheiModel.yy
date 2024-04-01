@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarp0IModel",
+  "%Name":"DaddyBombheiModel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":88,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"DoorWarp0IModel",
+  "name":"DaddyBombheiModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"DaddyBombheiModel",
+    "path":"folders/Objets/EnnemisModels/DaddyBombheiModel.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DoorWarp0I",
-    "path":"sprites/DoorWarp0I/DoorWarp0I.yy",
+    "name":"DaddyBombhei",
+    "path":"sprites/DaddyBombhei/DaddyBombhei.yy",
   },
   "spriteMaskId":null,
   "visible":true,

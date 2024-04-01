@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarp0IModel",
+  "%Name":"EarthenPipeFinishObjectModel",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"DoorWarp0IModel",
+  "name":"EarthenPipeFinishObjectModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"DoorWarp0I",
-    "path":"sprites/DoorWarp0I/DoorWarp0I.yy",
+    "name":"EarthenPipeFinishObject",
+    "path":"sprites/EarthenPipeFinishObject/EarthenPipeFinishObject.yy",
   },
   "spriteMaskId":null,
   "visible":true,
