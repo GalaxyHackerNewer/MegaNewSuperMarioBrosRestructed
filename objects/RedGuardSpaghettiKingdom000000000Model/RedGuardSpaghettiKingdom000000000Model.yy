@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"REALgrassblockwallmodel",
-  "eventList":[],
+  "%Name":"RedGuardSpaghettiKingdom000000000Model",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"REALgrassblockwallmodel",
+  "name":"RedGuardSpaghettiKingdom000000000Model",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"PNJSMODELS",
+    "path":"folders/Objets/PNJSMODELS.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"REALgrassblockwall",
-    "path":"sprites/REALgrassblockwall/REALgrassblockwall.yy",
+    "name":"RedGuardSK000000000",
+    "path":"sprites/RedGuardSK000000000/RedGuardSK000000000.yy",
   },
   "spriteMaskId":null,
   "visible":true,

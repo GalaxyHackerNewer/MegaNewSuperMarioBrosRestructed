@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"REALgrassblockwallmodel",
+  "%Name":"PrincessFalaCastleDevBuildModel",
   "eventList":[],
   "managed":true,
-  "name":"REALgrassblockwallmodel",
+  "name":"PrincessFalaCastleDevBuildModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"REALgrassblockwall",
-    "path":"sprites/REALgrassblockwall/REALgrassblockwall.yy",
+    "name":"PrincessFalaCastleDevBuild",
+    "path":"sprites/PrincessFalaCastleDevBuild/PrincessFalaCastleDevBuild.yy",
   },
   "spriteMaskId":null,
   "visible":true,

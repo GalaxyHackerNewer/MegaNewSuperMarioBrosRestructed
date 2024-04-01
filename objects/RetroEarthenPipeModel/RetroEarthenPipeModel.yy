@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"REALgrassblockwallmodel",
-  "eventList":[],
+  "%Name":"RetroEarthenPipeModel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"REALgrassblockwallmodel",
+  "name":"RetroEarthenPipeModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"REALgrassblockwall",
-    "path":"sprites/REALgrassblockwall/REALgrassblockwall.yy",
+    "name":"RetroEarthenPipe",
+    "path":"sprites/RetroEarthenPipe/RetroEarthenPipe.yy",
   },
   "spriteMaskId":null,
   "visible":true,

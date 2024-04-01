@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"REALgrassblockwallmodel",
+  "%Name":"Ret64BSpringBoardBodyModel",
   "eventList":[],
   "managed":true,
-  "name":"REALgrassblockwallmodel",
+  "name":"Ret64BSpringBoardBodyModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"MecanicsModels",
+    "path":"folders/Objets/MecanicsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"REALgrassblockwall",
-    "path":"sprites/REALgrassblockwall/REALgrassblockwall.yy",
+    "name":"Ret64BSpringBoardBody",
+    "path":"sprites/Ret64BSpringBoardBody/Ret64BSpringBoardBody.yy",
   },
   "spriteMaskId":null,
   "visible":true,

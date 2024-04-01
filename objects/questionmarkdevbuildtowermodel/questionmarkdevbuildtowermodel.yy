@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"REALgrassblockwallmodel",
-  "eventList":[],
+  "%Name":"questionmarkdevbuildtowermodel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"REALgrassblockwallmodel",
+  "name":"questionmarkdevbuildtowermodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"REALgrassblockwall",
-    "path":"sprites/REALgrassblockwall/REALgrassblockwall.yy",
+    "name":"questionmarktowerdevbuild",
+    "path":"sprites/questionmarktowerdevbuild/questionmarktowerdevbuild.yy",
   },
   "spriteMaskId":null,
   "visible":true,

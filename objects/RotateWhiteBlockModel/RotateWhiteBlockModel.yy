@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"REALgrassblockwallmodel",
+  "%Name":"RotateWhiteBlockModel",
   "eventList":[],
   "managed":true,
-  "name":"REALgrassblockwallmodel",
+  "name":"RotateWhiteBlockModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"MecanicsModels",
+    "path":"folders/Objets/MecanicsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"REALgrassblockwall",
-    "path":"sprites/REALgrassblockwall/REALgrassblockwall.yy",
+    "name":"RotateWhiteBlock",
+    "path":"sprites/RotateWhiteBlock/RotateWhiteBlock.yy",
   },
   "spriteMaskId":null,
   "visible":true,
