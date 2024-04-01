@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"TableMainDevlopperPlumberOldHouseModel",
+  "%Name":"TickTockClockWorldBackgroundModel",
   "eventList":[],
   "managed":true,
-  "name":"TableMainDevlopperPlumberOldHouseModel",
+  "name":"TickTockClockWorldBackgroundModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"BackgroundsModels",
+    "path":"folders/Objets/BackgroundsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"TableMainDevlopperPlumberOldHouse",
-    "path":"sprites/TableMainDevlopperPlumberOldHouse/TableMainDevlopperPlumberOldHouse.yy",
+    "name":"TickTockClockWorldBackground",
+    "path":"sprites/TickTockClockWorldBackground/TickTockClockWorldBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,
