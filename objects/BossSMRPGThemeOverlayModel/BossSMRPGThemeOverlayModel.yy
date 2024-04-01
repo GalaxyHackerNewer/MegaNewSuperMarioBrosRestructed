@@ -1,17 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"BloodButtonModel",
+  "%Name":"BossSMRPGThemeOverlayModel",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":6,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BloodButtonModel",
+  "name":"BossSMRPGThemeOverlayModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"ButtonsModels",
-    "path":"folders/Objets/ButtonsModels.yy",
+    "name":"OverlayModel",
+    "path":"folders/Objets/OverlayModel.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -32,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"BloodButton",
-    "path":"sprites/BloodButton/BloodButton.yy",
+    "name":"SMRPGBossBattleOverlay",
+    "path":"sprites/SMRPGBossBattleOverlay/SMRPGBossBattleOverlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,

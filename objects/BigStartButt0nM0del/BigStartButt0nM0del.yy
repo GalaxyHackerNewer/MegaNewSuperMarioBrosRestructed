@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"CandySweetWorldBackgroundModel",
-  "eventList":[],
+  "%Name":"BigStartButt0nM0del",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":6,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"CandySweetWorldBackgroundModel",
+  "name":"BigStartButt0nM0del",
   "overriddenProperties":[],
   "parent":{
-    "name":"BackgroundsModels",
-    "path":"folders/Objets/BackgroundsModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"CandySweetWorldBackground",
-    "path":"sprites/CandySweetWorldBackground/CandySweetWorldBackground.yy",
+    "name":"BigStartButt0n",
+    "path":"sprites/BigStartButt0n/BigStartButt0n.yy",
   },
   "spriteMaskId":null,
   "visible":true,

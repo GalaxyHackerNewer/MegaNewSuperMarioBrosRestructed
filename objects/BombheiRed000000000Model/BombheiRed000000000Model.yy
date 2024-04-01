@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"CandySweetWorldBackgroundModel",
-  "eventList":[],
+  "%Name":"BombheiRed000000000Model",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"CandySweetWorldBackgroundModel",
+  "name":"BombheiRed000000000Model",
   "overriddenProperties":[],
   "parent":{
-    "name":"BackgroundsModels",
-    "path":"folders/Objets/BackgroundsModels.yy",
+    "name":"PNJSMODELS",
+    "path":"folders/Objets/PNJSMODELS.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"CandySweetWorldBackground",
-    "path":"sprites/CandySweetWorldBackground/CandySweetWorldBackground.yy",
+    "name":"BombheiRed000000000",
+    "path":"sprites/BombheiRed000000000/BombheiRed000000000.yy",
   },
   "spriteMaskId":null,
   "visible":true,
