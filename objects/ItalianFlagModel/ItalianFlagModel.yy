@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Loading",
+  "%Name":"ItalianFlagModel",
   "eventList":[],
   "managed":true,
-  "name":"Loading",
+  "name":"ItalianFlagModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Loading",
-    "path":"folders/Objets/Loading.yy",
+    "name":"FlagsModels",
+    "path":"folders/Objets/FlagsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"loadingmessagename",
-    "path":"sprites/loadingmessagename/loadingmessagename.yy",
+    "name":"ItalianFlag",
+    "path":"sprites/ItalianFlag/ItalianFlag.yy",
   },
   "spriteMaskId":null,
   "visible":true,

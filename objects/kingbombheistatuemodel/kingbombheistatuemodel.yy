@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Loading",
-  "eventList":[],
+  "%Name":"kingbombheistatuemodel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":6,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Loading",
+  "name":"kingbombheistatuemodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Loading",
-    "path":"folders/Objets/Loading.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"loadingmessagename",
-    "path":"sprites/loadingmessagename/loadingmessagename.yy",
+    "name":"kingbombheistatue",
+    "path":"sprites/kingbombheistatue/kingbombheistatue.yy",
   },
   "spriteMaskId":null,
   "visible":true,

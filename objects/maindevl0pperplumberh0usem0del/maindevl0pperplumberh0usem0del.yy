@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Loading",
-  "eventList":[],
+  "%Name":"maindevl0pperplumberh0usem0del",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumber2023model","path":"objects/maindevlopperplumber2023model/maindevlopperplumber2023model.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Loading",
+  "name":"maindevl0pperplumberh0usem0del",
   "overriddenProperties":[],
   "parent":{
-    "name":"Loading",
-    "path":"folders/Objets/Loading.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"loadingmessagename",
-    "path":"sprites/loadingmessagename/loadingmessagename.yy",
+    "name":"maindevl0pperplumberh0use",
+    "path":"sprites/maindevl0pperplumberh0use/maindevl0pperplumberh0use.yy",
   },
   "spriteMaskId":null,
   "visible":true,

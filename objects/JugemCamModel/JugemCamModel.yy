@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Loading",
+  "%Name":"JugemCamModel",
   "eventList":[],
   "managed":true,
-  "name":"Loading",
+  "name":"JugemCamModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Loading",
-    "path":"folders/Objets/Loading.yy",
+    "name":"PNJSMODELS",
+    "path":"folders/Objets/PNJSMODELS.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"loadingmessagename",
-    "path":"sprites/loadingmessagename/loadingmessagename.yy",
+    "name":"JugemCam",
+    "path":"sprites/JugemCam/JugemCam.yy",
   },
   "spriteMaskId":null,
   "visible":true,

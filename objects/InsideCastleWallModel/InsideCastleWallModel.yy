@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Loading",
+  "%Name":"InsideCastleWallModel",
   "eventList":[],
   "managed":true,
-  "name":"Loading",
+  "name":"InsideCastleWallModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Loading",
-    "path":"folders/Objets/Loading.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"loadingmessagename",
-    "path":"sprites/loadingmessagename/loadingmessagename.yy",
+    "name":"insideCastleWall",
+    "path":"sprites/insideCastleWall/insideCastleWall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
