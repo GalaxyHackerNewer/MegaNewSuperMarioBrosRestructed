@@ -3,4 +3,4 @@
 /// @DnDHash : 5434C51A
 /// @DnDArgument : "room" "chooseiconsroom"
 /// @DnDSaveInfo : "room" "chooseiconsroom"
-room_goto(chooseiconsroom);
+room_goto(chooseiconselectmaindevlopperplumberroom);

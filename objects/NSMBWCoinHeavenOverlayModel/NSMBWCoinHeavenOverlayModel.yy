@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Number0MessageNameModel",
-  "eventList":[],
+  "%Name":"NSMBWCoinHeavenOverlayModel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Number0MessageNameModel",
+  "name":"NSMBWCoinHeavenOverlayModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Message",
-    "path":"folders/Objets/Message.yy",
+    "name":"OverlayModel",
+    "path":"folders/Objets/OverlayModel.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Number0messagename",
-    "path":"sprites/Number0messagename/Number0messagename.yy",
+    "name":"CoinHeavenOverlay",
+    "path":"sprites/CoinHeavenOverlay/CoinHeavenOverlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,
