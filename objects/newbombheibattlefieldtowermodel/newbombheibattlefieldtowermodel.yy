@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"newbombheibattlefieldpaintingmodel",
+  "%Name":"newbombheibattlefieldtowermodel",
   "eventList":[],
   "managed":true,
-  "name":"newbombheibattlefieldpaintingmodel",
+  "name":"newbombheibattlefieldtowermodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"PaintingModels",
-    "path":"folders/Objets/DecoModels/PaintingModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"newbombheibattlefieldpainting",
-    "path":"sprites/newbombheibattlefieldpainting/newbombheibattlefieldpainting.yy",
+    "name":"newbombheibattlefieldtower",
+    "path":"sprites/newbombheibattlefieldtower/newbombheibattlefieldtower.yy",
   },
   "spriteMaskId":null,
   "visible":true,

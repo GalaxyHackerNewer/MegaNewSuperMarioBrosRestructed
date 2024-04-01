@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"newbombheibattlefieldpaintingmodel",
-  "eventList":[],
+  "%Name":"NewBombheiBattlefielLevelQuickAcessModel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":13,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"newbombheibattlefieldpaintingmodel",
+  "name":"NewBombheiBattlefielLevelQuickAcessModel",
   "overriddenProperties":[],
   "parent":{
     "name":"PaintingModels",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"newbombheibattlefieldpainting",
-    "path":"sprites/newbombheibattlefieldpainting/newbombheibattlefieldpainting.yy",
+    "name":"NewBombheiBattlefieldLevelquickAcess",
+    "path":"sprites/NewBombheiBattlefieldLevelquickAcess/NewBombheiBattlefieldLevelquickAcess.yy",
   },
   "spriteMaskId":null,
   "visible":true,

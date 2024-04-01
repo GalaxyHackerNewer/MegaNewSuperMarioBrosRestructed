@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"NoButton2Model",
+  "%Name":"MNSMBNBOBOverlayModel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"NoButton2Model",
+  "name":"MNSMBNBOBOverlayModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"ButtonsModels",
-    "path":"folders/Objets/ButtonsModels.yy",
+    "name":"OverlayModel",
+    "path":"folders/Objets/OverlayModel.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"NoButton2",
-    "path":"sprites/NoButton2/NoButton2.yy",
+    "name":"NewBombheiBattleFieldDefaultOverlay",
+    "path":"sprites/NewBombheiBattleFieldDefaultOverlay/NewBombheiBattleFieldDefaultOverlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,
