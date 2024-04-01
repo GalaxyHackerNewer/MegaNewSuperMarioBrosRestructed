@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"SdMessage2",
-  "eventList":[],
+  "%Name":"secretleveltransitionmodel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"SdMessage2",
+  "name":"secretleveltransitionmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Message",
-    "path":"folders/Objets/Message.yy",
+    "name":"DecoModels",
+    "path":"folders/Objets/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sdmessageA3rdbodymessagename",
-    "path":"sprites/sdmessageA3rdbodymessagename/sdmessageA3rdbodymessagename.yy",
+    "name":"SecretLevelTransition",
+    "path":"sprites/SecretLevelTransition/SecretLevelTransition.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

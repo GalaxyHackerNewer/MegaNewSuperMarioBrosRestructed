@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"SdMessage2",
-  "eventList":[],
+  "%Name":"shinespritebombhei1model",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":85,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"SdMessage2",
+  "name":"shinespritebombhei1model",
   "overriddenProperties":[],
   "parent":{
-    "name":"Message",
-    "path":"folders/Objets/Message.yy",
+    "name":"CollectablesModels",
+    "path":"folders/Objets/CollectablesModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sdmessageA3rdbodymessagename",
-    "path":"sprites/sdmessageA3rdbodymessagename/sdmessageA3rdbodymessagename.yy",
+    "name":"shinespritebombhei1",
+    "path":"sprites/shinespritebombhei1/shinespritebombhei1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"SdMessage2",
-  "eventList":[],
+  "%Name":"SdCardAnimM0del",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":59,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"SdMessage2",
+  "name":"SdCardAnimM0del",
   "overriddenProperties":[],
   "parent":{
-    "name":"Message",
-    "path":"folders/Objets/Message.yy",
+    "name":"AnimationsModels",
+    "path":"folders/Objets/AnimationsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sdmessageA3rdbodymessagename",
-    "path":"sprites/sdmessageA3rdbodymessagename/sdmessageA3rdbodymessagename.yy",
+    "name":"SdCardAnim",
+    "path":"sprites/SdCardAnim/SdCardAnim.yy",
   },
   "spriteMaskId":null,
   "visible":true,
