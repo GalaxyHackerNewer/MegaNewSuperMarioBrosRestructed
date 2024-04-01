@@ -1,6 +1,21 @@
-/// @DnDAction : YoYo Games.Common.Execute_Script
-/// @DnDVersion : 1.1
-/// @DnDHash : 134A3B40
-/// @DnDArgument : "script" "minecraftcavallermessage"
-/// @DnDSaveInfo : "script" "minecraftcavallermessage"
 script_execute(minecraftcavallermessage);
+show_message_async("Welcome to mega new super mario bros dem prototype xxxxxxxx");
+show_message("Bienvenue dans mega nouveau super mario freres dem protype xxxxxxxx");
+show_message("Test");
+show_message("PJKOLI PATROL ERROR!!!!");
+show_message("Pjkoli Patrol Error!!!!");
+show_message("Erreur de la patrouille de Pjkoli!!!!");
+show_message("I'm just an unused text.......");
+show_message("Je suis juste un texte inutilise");
+show_message("poisson d'avril!!!!!!!:)");
+show_message("april fools!!!!!!!:)");
+show_message("Ah hello bonjour galaxyhackernewer ancien/galaxyhackernewer");
+show_message("My name is gregory the snapster i'm an old YouTubeur");
+show_message("Mon nom est gregory le snapster je suis un ancien Youtubeur");
+show_message("dans la version demonstration protoype xxxxxxxx de mega nou");
+show_message("veau super mario freres je n'ai toujours pas mon ordinateur");
+show_message("in the version demonstration prototype xxxxxxxx de mega new");
+show_message("super mario bros i still have not my computer");
+show_message("wait mega new super mario bros dem prototype xxxxxxx for found my computer");
+show_message("attends mega nouveau super mario freres dem prototype xxxxxxx pour trouver");
+show_message("mon ordinateur");
