@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
+  "%Name":"HatenaRedBlockModel",
   "eventList":[],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"HatenaRedBlockModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BackgroundsModels",
-    "path":"folders/Objets/BackgroundsModels.yy",
+    "name":"BlocsModels",
+    "path":"folders/Objets/BlocsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +26,14 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"HatenaRedFloorBlock",
+    "path":"sprites/HatenaRedFloorBlock/HatenaRedFloorBlock.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"HatenaRedFloorBlock",
+    "path":"sprites/HatenaRedFloorBlock/HatenaRedFloorBlock.yy",
+  },
   "visible":true,
 }

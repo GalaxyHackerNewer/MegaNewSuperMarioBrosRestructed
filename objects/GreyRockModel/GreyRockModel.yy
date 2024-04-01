@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
+  "%Name":"GreyRockModel",
   "eventList":[],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"GreyRockModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BackgroundsModels",
-    "path":"folders/Objets/BackgroundsModels.yy",
+    "name":"DecoModels",
+    "path":"folders/Objets/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"GreyRock",
+    "path":"sprites/GreyRock/GreyRock.yy",
   },
   "spriteMaskId":null,
   "visible":true,

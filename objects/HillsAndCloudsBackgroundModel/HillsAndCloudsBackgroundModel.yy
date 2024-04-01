@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
+  "%Name":"HillsAndCloudsBackgroundModel",
   "eventList":[],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"HillsAndCloudsBackgroundModel",
   "overriddenProperties":[],
   "parent":{
     "name":"BackgroundsModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"HillsCloudsBackground",
+    "path":"sprites/HillsCloudsBackground/HillsCloudsBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,

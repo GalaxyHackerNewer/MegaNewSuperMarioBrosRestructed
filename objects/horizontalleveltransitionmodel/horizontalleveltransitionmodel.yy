@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"FakeGreenScreenModel",
-  "eventList":[],
+  "%Name":"horizontalleveltransitionmodel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"FakeGreenScreenModel",
+  "name":"horizontalleveltransitionmodel",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -28,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"FakeGreenScreen",
-    "path":"sprites/FakeGreenScreen/FakeGreenScreen.yy",
+    "name":"horizontalleveltransition",
+    "path":"sprites/horizontalleveltransition/horizontalleveltransition.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

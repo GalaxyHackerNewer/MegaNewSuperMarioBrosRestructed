@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
+  "%Name":"HauntedHouseBackgroundModel",
   "eventList":[],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"HauntedHouseBackgroundModel",
   "overriddenProperties":[],
   "parent":{
     "name":"BackgroundsModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"HauntedHouseBackground",
+    "path":"sprites/HauntedHouseBackground/HauntedHouseBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,

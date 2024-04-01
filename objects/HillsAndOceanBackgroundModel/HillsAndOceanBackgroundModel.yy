@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
+  "%Name":"HillsAndOceanBackgroundModel",
   "eventList":[],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"HillsAndOceanBackgroundModel",
   "overriddenProperties":[],
   "parent":{
     "name":"BackgroundsModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"HillsOceanBackground",
+    "path":"sprites/HillsOceanBackground/HillsOceanBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,

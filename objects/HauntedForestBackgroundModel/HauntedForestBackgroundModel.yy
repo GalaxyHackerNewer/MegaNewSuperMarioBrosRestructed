@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
+  "%Name":"HauntedForestBackgroundModel",
   "eventList":[],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"HauntedForestBackgroundModel",
   "overriddenProperties":[],
   "parent":{
     "name":"BackgroundsModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"HauntedForestBackground",
+    "path":"sprites/HauntedForestBackground/HauntedForestBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,

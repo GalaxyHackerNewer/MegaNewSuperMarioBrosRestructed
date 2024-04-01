@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
-  "eventList":[],
+  "%Name":"Greenscreenbutt0nm0del",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":6,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"Greenscreenbutt0nm0del",
   "overriddenProperties":[],
   "parent":{
-    "name":"BackgroundsModels",
-    "path":"folders/Objets/BackgroundsModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -26,11 +28,14 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"GreenScreenButt0n",
+    "path":"sprites/GreenScreenButt0n/GreenScreenButt0n.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"GreenScreenButt0n",
+    "path":"sprites/GreenScreenButt0n/GreenScreenButt0n.yy",
+  },
   "visible":true,
 }

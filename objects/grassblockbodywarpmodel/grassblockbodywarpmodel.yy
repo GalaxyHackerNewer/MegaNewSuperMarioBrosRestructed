@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"FireFieldBackgroundModel",
-  "eventList":[],
+  "%Name":"grassblockbodywarpmodel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"FireFieldBackgroundModel",
+  "name":"grassblockbodywarpmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BackgroundsModels",
-    "path":"folders/Objets/BackgroundsModels.yy",
+    "name":"BlocsModels",
+    "path":"folders/Objets/BlocsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"FireFieldBackground",
-    "path":"sprites/FireFieldBackground/FireFieldBackground.yy",
+    "name":"grassblockbodywarp",
+    "path":"sprites/grassblockbodywarp/grassblockbodywarp.yy",
   },
   "spriteMaskId":null,
   "visible":true,
