@@ -14,4 +14,5 @@ steam https://steamcommunity.com/id/Galaxyhackernewer/
 discord https://discord.com/invite/MjYjbVeptJ
 gamebanana https://gamebanana.com/members/2087873
 github https://github.com/GalaxyHackerNewer
-and that's all
+and that's all don't forget read sprites_helpers.list
+for to know sprites of this game IMPORTANT!!!
