@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"watermgd2023model",
-  "eventList":[],
+  "%Name":"YesButtonSModel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"watermgd2023model",
+  "name":"YesButtonSModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"watermgd2023",
-    "path":"sprites/watermgd2023/watermgd2023.yy",
+    "name":"YesButtonS",
+    "path":"sprites/YesButtonS/YesButtonS.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"watermgd2023model",
-  "eventList":[],
+  "%Name":"verticalleveltransitionmodel",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"watermgd2023model",
+  "name":"verticalleveltransitionmodel",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -28,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"watermgd2023",
-    "path":"sprites/watermgd2023/watermgd2023.yy",
+    "name":"verticalleveltransition",
+    "path":"sprites/verticalleveltransition/verticalleveltransition.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
