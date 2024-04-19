@@ -1,9 +1,9 @@
 {
   "$GMScript":"",
-  "%Name":"minecraftcavallermessage",
+  "%Name":"redguardskmessage",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"minecraftcavallermessage",
+  "name":"redguardskmessage",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",
