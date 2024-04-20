@@ -1,16 +1,16 @@
 {
   "$GMSound":"",
-  "%Name":"MLFTStarHill",
+  "%Name":"NewBombheiBattlefieldSaxoAlto",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
   },
   "bitDepth":1,
-  "bitRate":128,
+  "bitRate":144,
   "compression":3,
   "conversionMode":0,
-  "duration":157.04816,
-  "name":"MLFTStarHill",
+  "duration":66.0,
+  "name":"NewBombheiBattlefieldSaxoAlto",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -18,8 +18,8 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":44100,
-  "soundFile":"MLFTStarHill.mp3",
-  "type":0,
+  "sampleRate":48000,
+  "soundFile":"NewBombheiBattlefieldSaxoAlto.ogg",
+  "type":1,
   "volume":1.0,
 }

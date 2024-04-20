@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"MLFTStarHill",
+  "%Name":"NewBombheiBattlefield",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":3,
   "conversionMode":0,
-  "duration":157.04816,
-  "name":"MLFTStarHill",
+  "duration":67.056,
+  "name":"NewBombheiBattlefield",
   "parent":{
     "name":"Sons",
     "path":"folders/Sons.yy",
@@ -18,8 +18,8 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":44100,
-  "soundFile":"MLFTStarHill.mp3",
-  "type":0,
+  "sampleRate":48000,
+  "soundFile":"NewBombheiBattlefield.mp3",
+  "type":1,
   "volume":1.0,
 }
