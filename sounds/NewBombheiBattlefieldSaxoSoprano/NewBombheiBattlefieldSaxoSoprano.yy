@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"NewBombheiBattlefieldSaxoSoprano",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":160,
+  "compression":3,
+  "conversionMode":0,
+  "duration":66.0,
+  "name":"NewBombheiBattlefieldSaxoSoprano",
+  "parent":{
+    "name":"Sons",
+    "path":"folders/Sons.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"NewBombheiBattlefieldSaxoSoprano.ogg",
+  "type":1,
+  "volume":1.0,
+}
