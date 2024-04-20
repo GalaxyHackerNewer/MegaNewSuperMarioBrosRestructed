@@ -1,6 +1,7 @@
 Mega New Super Mario Bros Restructed/Mega Nouveau Super Mario Frere Restructation
 Musics Codings Names list/liste Noms De Codes Musiques
 Not Full/Pas Complet
+//List of Alls Songs In Fangame Name Mega New Super Mario Bros/Liste De Toutes Chansons Dans Fanjeu Nommer Nouveau Super Mario Frere
 BloodIntro=Intro Sanguinaire
 contain a .voice file require vlc media player for play them (optional)
 contient un .voice fichier requis vlc media player pour le jouer (optionel)
@@ -25,7 +26,7 @@ Champignon aussi
 Super Smash Bros Melee Peach's Castle Theme/Super Mario 63 Mushroom Kingdom also
 StickmanTestMovie=contient un fichier .voice utiliser VLC Media Player pour le lire tuto arrive bientôt
 contain a .voice file use VLC Media Player for read tuto coming soon
-voix de l'homme bâton test film dans pizzeria freddy fazbear niveaux/stickman test movie voice in freddy fazbear pizzeria
+voix de l'homme baton test film dans pizzeria freddy fazbear niveaux/stickman test movie voice in freddy fazbear pizzeria
 levels
 MovieSong=thème princial les X-fichiers/the X-files main theme
 meadowsofnewsunsetmainentranceflute=prairie du nouveau crépuscule entrée principale avec flûte uniquement/meadow of new sunset main entrance
@@ -47,5 +48,22 @@ ParaPostManNokoNokoIntro=Papier Mario 64 appeler par la poste/Paper Mario 64 Mai
 SM64HACKSM64LADFILESELECTBYKAZEEMANUAR=Super Mario 64 Terres Super Mario 64 Hack Selecteur Fichiers Par Kaze Emanuar/Super Mario
 64 Land Super Mario 64 Hack File Select By Kaze Emanuar (final)(final)
 USINETROLLSEURBOWSER=Usine Trollseur et Bowser/TrollKoopa Factory and Koopa Factory
+KingBombheiStatueDestroy=Statue roi bob-omb detruite/king bombhei statue destroy
+MKDDParcBaby=Mario Kart Double Dash Parc Bebe Course Contre Koopa Rapido Son/Mario Kart Double Dash Parc Baby Race With Koopa The Quick
+NewBombheiBattlefield=La nouvelle guerre des bobs-ombs/new bob-omb battlefield
+NewBombheiBattlefieldClarinetteBasseMGD2024=La nouvelle guerre des bobs-ombs mini-jeu direct 2024 son/new bob-omb battlefield mini-game direct2024 song
+NewBombheiBattlefieldClarinetteInSib=La nouvelle guerre des bobs-ombs version clarinette en sib/new bob-omb battlefield clarinette in sib version
+NewBombheiBattlefieldFlute=La nouvelle guerre des bobs-ombs flute/new bob-omb battlefield flute
+NewBombheiBattlefieldOSTCIND=La nouvelle guerre des bobs-ombs chanson inconnu/new bob-omb battlefield unknown song
+NewBombheiBattlefieldSaxoAlto=La nouvelle guerre des bobs-ombs saxophone alto version/new bob-omb battlefield saxophone alto version
+NewBombheiBattlefieldPicollo=La nouvelle guerre des bobs-ombs picollo version/new bob-omb battlefield picollo version
+NewBombheiBattlefieldSaxoSoprano=La nouvelle guerre des bobs-ombs saxophone soprano version/new bob-omb battlefield soprano saxophone version
+NewBombheiBattlefieldSaxoTenor=La nouvelle guerre des bobs-ombs saxophone tenor version/new bob-omb battlefield tenor saxophone version
+NewBombheiBattlefieldSoundDefault=Chanson par defaut de nouvelle guerre bob-omb/default song of new bob-omb battlefield
+SM63SecretCourse=Course Secrete (Super Mario 63)/Secret Course (Super Mario 63)
+NewBombheiBattlefieldFieldUpWood=Chanson hautbois ancienne nouvelle guerre bob-omb/fieldupwood old song new bob-omb battlefield
+NSMBWCoinHeaven=Paradis Piece (Nouveau Super Mario Freres Wii)/Coin Heaven (New Super Mario Bros Wii)
+SMRPG Boss Battle=Bataille Boss et Bosses (Super Mario RPG Legende Des Septs Etoiles)/Boss and Bosses Fight (Super Mario RPG Legend Of Sevens Stars)
+DefaultNewBombheiBattlefieldOSTRefix=chanson nouvelle guerre bob-omb par defaut moderne/new song new bob-omb battlefield modern default
 and list and doesn't finished mores songs coming soon
 et la liste n'est pas fini plus de chansons arrive bientôt
