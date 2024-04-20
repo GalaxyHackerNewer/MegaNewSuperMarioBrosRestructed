@@ -2,7 +2,7 @@
 Fangame De New Super Mario Bros Pour PC
 Fangame of New Super Mario Bros For PC
 Hello GalaxyHackerNewer here today i present files of my futur fangame New Super Mario Bros For PC in this repository update quit often
-mores files coming soon
+more files coming soon
 don't forget follow me on this website
 official website https://gregvall1999.wixsite.com/ghnse
 youtube https://www.youtube.com/channel/UCNgYkG2CZAw48XV3xO4-TsQ
