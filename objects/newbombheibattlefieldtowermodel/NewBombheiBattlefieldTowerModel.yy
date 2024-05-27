@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"BombheiModel",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"NewBombheiBattlefieldTowerModel",
+  "eventList":[],
   "managed":true,
-  "name":"BombheiModel",
+  "name":"NewBombheiBattlefieldTowerModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"EnemiesModels",
-    "path":"folders/Objets/EnemiesModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,11 +26,14 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"Bombhei",
-    "path":"sprites/Bombhei/Bombhei.yy",
+    "name":"NewBombheiBattlefieldTower",
+    "path":"sprites/NewBombheiBattlefieldTower/NewBombheiBattlefieldTower.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"NewBombheiBattlefieldTower",
+    "path":"sprites/NewBombheiBattlefieldTower/NewBombheiBattlefieldTower.yy",
+  },
   "visible":true,
 }

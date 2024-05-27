@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"BombheiModel",
+  "%Name":"KingBombheiStatueModel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":6,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BombheiModel",
+  "name":"KingBombheiStatueModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"EnemiesModels",
-    "path":"folders/Objets/EnemiesModels.yy",
+    "name":"DestroyablesModels",
+    "path":"folders/Objets/AnimationsModels/DestroyablesModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Bombhei",
-    "path":"sprites/Bombhei/Bombhei.yy",
+    "name":"KingBombheiStatue",
+    "path":"sprites/KingBombheiStatue/KingBombheiStatue.yy",
   },
   "spriteMaskId":null,
   "visible":true,

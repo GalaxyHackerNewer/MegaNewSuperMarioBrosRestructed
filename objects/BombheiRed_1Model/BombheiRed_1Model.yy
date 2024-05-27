@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"BombheiModel",
+  "%Name":"BombheiRed_1Model",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"BombheiModel",
+  "name":"BombheiRed_1Model",
   "overriddenProperties":[],
   "parent":{
-    "name":"EnemiesModels",
-    "path":"folders/Objets/EnemiesModels.yy",
+    "name":"PNJSMODELS",
+    "path":"folders/Objets/PNJSMODELS.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Bombhei",
-    "path":"sprites/Bombhei/Bombhei.yy",
+    "name":"BombheiRed_1",
+    "path":"sprites/BombheiRed_1/BombheiRed_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
