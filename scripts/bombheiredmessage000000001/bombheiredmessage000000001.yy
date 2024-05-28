@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"bombheiredmessage000000001",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"bombheiredmessage000000001",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
