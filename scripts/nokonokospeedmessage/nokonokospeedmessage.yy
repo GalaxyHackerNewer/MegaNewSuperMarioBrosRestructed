@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"nokonokospeedmessage",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"nokonokospeedmessage",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
