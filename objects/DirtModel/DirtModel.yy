@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarp0BModel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"StickmanMovieTestModel","path":"objects/StickmanMovieTestModel/StickmanMovieTestModel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"DirtModel",
+  "eventList":[],
   "managed":true,
-  "name":"DoorWarp0BModel",
+  "name":"DirtModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
+    "name":"mega-new-super-mario-bros-restructed",
+    "path":"mega-new-super-mario-bros-restructed.yyp",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +28,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DoorWarp0B",
-    "path":"sprites/DoorWarp0B/DoorWarp0B.yy",
+    "name":"Dirt",
+    "path":"sprites/Dirt/Dirt.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"Dirt",
+    "path":"sprites/Dirt/Dirt.yy",
+  },
   "visible":true,
 }
