@@ -14,7 +14,7 @@ steam https://steamcommunity.com/id/Galaxyhackernewer/
 discord https://discord.com/invite/MjYjbVeptJ
 gamebanana https://gamebanana.com/members/2087873
 github https://github.com/GalaxyHackerNewer
-mega new super mario bros now have a wiki https://gregvall1999.wixsite.com/mnsmb-wiki
+mega new super mario bros now have a wiki https://gregvall1999.wixsite.com/ghnse/mnsmb-wiki
 and that's all don't forget read sprites_helpers.list-helperlist.list-roomslist.list
 for to know sprites, sounds and rooms of this game IMPORTANT!!!
 pjkoli patrol error!!!!!!!!
