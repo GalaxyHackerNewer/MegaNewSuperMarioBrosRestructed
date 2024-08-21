@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"PaperFenceWarp0AModel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"PaperFenceWarp0AModel",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
