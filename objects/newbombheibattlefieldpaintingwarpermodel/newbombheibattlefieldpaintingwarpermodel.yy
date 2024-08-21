@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"newbombheibattlefieldpaintingwarpermodel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"newbombheibattlefieldpaintingwarpermodel",
   "overriddenProperties":[],
   "parent":{
     "name":"PaintingsModels",
-    "path":"folders/Objets/DecoModels/PaintingsModels.yy",
+    "path":"folders/Objets/PaintingsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,

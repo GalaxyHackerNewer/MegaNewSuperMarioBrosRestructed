@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"newbombheibattlefieldpaintingmodel",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":65,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"newbombheibattlefieldpaintingmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"PaintingModels",
-    "path":"folders/Objets/DecoModels/PaintingModels.yy",
+    "name":"mega-new-super-mario-bros-restructed",
+    "path":"mega-new-super-mario-bros-restructed.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

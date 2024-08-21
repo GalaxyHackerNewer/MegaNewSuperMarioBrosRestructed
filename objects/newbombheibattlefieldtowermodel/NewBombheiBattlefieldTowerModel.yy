@@ -31,9 +31,6 @@
     "name":"NewBombheiBattlefieldTower",
     "path":"sprites/NewBombheiBattlefieldTower/NewBombheiBattlefieldTower.yy",
   },
-  "spriteMaskId":{
-    "name":"NewBombheiBattlefieldTower",
-    "path":"sprites/NewBombheiBattlefieldTower/NewBombheiBattlefieldTower.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
