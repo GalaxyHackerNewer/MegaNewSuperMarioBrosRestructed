@@ -6,8 +6,8 @@
   "name":"vanillastationpaintingmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"PaintingModels",
-    "path":"folders/Objets/DecoModels/PaintingModels.yy",
+    "name":"mega-new-super-mario-bros-restructed",
+    "path":"mega-new-super-mario-bros-restructed.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

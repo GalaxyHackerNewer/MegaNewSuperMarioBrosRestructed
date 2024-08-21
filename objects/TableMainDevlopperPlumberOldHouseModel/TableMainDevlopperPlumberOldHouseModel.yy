@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
