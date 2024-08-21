@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"princessfalacastlebridgemodel",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"princessfalacastlebridgemodel",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,6 +1,23 @@
-/// @DnDAction : YoYo Games.Common.Execute_Script
-/// @DnDVersion : 1.1
-/// @DnDHash : 1250DE18
-/// @DnDArgument : "script" "questionmarktowerdevbuildmessage"
-/// @DnDSaveInfo : "script" "questionmarktowerdevbuildmessage"
 script_execute(questionmarktowerdevbuildmessage);
+show_message("English");
+show_message("Ho hello are you galaxyhackernewer old");
+show_message("i'm princess fala castle tower dev build");
+show_message("you fall in this place after cruise the Spaghetti Kingdom");
+show_message("and... look here you found a princess fala castle dev build");
+show_message("the main dev working on this but... look he are reverse or");
+show_message("upsidedown if you prefer");
+show_message("now search entry of this castle");
+show_message("enter in tower door and voila you warp to inside");
+show_message("princess fala's castle enjoy because it's not part of the");
+show_message("show after final build release");
+show_message("French")
+show_message("Ho bonjour tu est galaxyhackernewer ancien");
+show_message("je suis tour dev construction château princesse Fala");
+show_message("tu est tombé dans ce lieu après avoir traversé le Royaume Spaghetti");
+show_message("et... regarde ici tu trouve château princesse fala dev construction");
+show_message("le dev principal travaille dessus mais...regarde il est renversé");
+show_message("à l'envers si tu préfére");
+show_message("maintenant recherche entrée de ce château");
+show_message("entre dans la porte tour et voilà tu as été téléporté à l'intérieur");
+show_message("château princesse Fala profite parce que ce n'est pas une part de ce");
+show_message("spectacle après la libération de construction finale");
