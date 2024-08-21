@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"SpaghettiKingdomOverlayModel",
+  "%Name":"SpaghettiKingdomCoinModel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":79,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SpaghettiKingdomOverlayModel",
+  "name":"SpaghettiKingdomCoinModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"OverlayModel",
-    "path":"folders/Objets/OverlayModel.yy",
+    "name":"CollectablesModels",
+    "path":"folders/Objets/CollectablesModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SpaghettiKingdomOverlay",
-    "path":"sprites/SpaghettiKingdomOverlay/SpaghettiKingdomOverlay.yy",
+    "name":"SpaghettiKingdomCoins",
+    "path":"sprites/SpaghettiKingdomCoins/SpaghettiKingdomCoins.yy",
   },
   "spriteMaskId":null,
   "visible":true,

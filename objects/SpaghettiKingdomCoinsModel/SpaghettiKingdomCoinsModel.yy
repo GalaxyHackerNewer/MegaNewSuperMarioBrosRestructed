@@ -2,14 +2,14 @@
   "$GMObject":"",
   "%Name":"SpaghettiKingdomCoinsModel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":85,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":79,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"SpaghettiKingdomCoinsModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"CollectablesModels",
-    "path":"folders/Objets/CollectablesModels.yy",
+    "name":"DecoModels",
+    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
