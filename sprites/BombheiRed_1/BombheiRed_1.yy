@@ -12,28 +12,28 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8500b8b9-1433-42c5-8c37-0b9478b41b7d","name":"8500b8b9-1433-42c5-8c37-0b9478b41b7d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"922be0b6-a08b-4d4d-8730-ab2c7ecd7c7f","name":"922be0b6-a08b-4d4d-8730-ab2c7ecd7c7f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e9ca7461-072a-4dcf-b34f-56b8e2cd43c4","blendMode":0,"displayName":"default","isLocked":false,"name":"e9ca7461-072a-4dcf-b34f-56b8e2cd43c4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"88f1b413-1d64-4eac-9080-c1cdcb47d793","blendMode":0,"displayName":"default","isLocked":false,"name":"88f1b413-1d64-4eac-9080-c1cdcb47d793","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"BombheiRed_1",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"BombheiRed",
-    "path":"folders/Sprites/PNJS/BombheiRed.yy",
+    "name":"bombheired",
+    "path":"folders/Sprites/PNJS/bombheired000000000/bombheired.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"BombheiRed",
+    "%Name":"BombheiRed_1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"BombheiRed",
+    "name":"BombheiRed_1",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8500b8b9-1433-42c5-8c37-0b9478b41b7d","path":"sprites/BombheiRed_1/BombheiRed_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"fd9e7dad-a9df-4ed8-b79f-9b34d07b95d3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"922be0b6-a08b-4d4d-8730-ab2c7ecd7c7f","path":"sprites/BombheiRed_1/BombheiRed_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"94aad402-a1db-43e3-a6d4-d89fe542271a","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
