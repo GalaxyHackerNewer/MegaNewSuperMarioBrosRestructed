@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"endingdemprototypexxxxxxxxxdevbuildbodyAmessagenamemodel",
-  "eventList":[],
+  "%Name":"EarthenPipeRetModel",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"endingdemprototypexxxxxxxxxdevbuildbodyAmessagenamemodel",
+  "name":"EarthenPipeRetModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"Message",
-    "path":"folders/Objets/Message.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"endingdemprototypexxxxxxxxxdevbuildbodyAmessagename",
-    "path":"sprites/endingdemprototypexxxxxxxxxdevbuildbodyAmessagename/endingdemprototypexxxxxxxxxdevbuildbodyAmessagename.yy",
+    "name":"EarthenPipeRet",
+    "path":"sprites/EarthenPipeRet/EarthenPipeRet.yy",
   },
   "spriteMaskId":null,
   "visible":true,
