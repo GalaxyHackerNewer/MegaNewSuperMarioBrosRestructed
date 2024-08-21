@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"32d3003c-ec57-4508-b3b4-bca650bb6128","name":"32d3003c-ec57-4508-b3b4-bca650bb6128","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ecb74aef-a95e-413a-9387-529ec311df79","name":"ecb74aef-a95e-413a-9387-529ec311df79","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":100,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"508fdc7a-f8f9-4d4c-a444-d240270eee65","blendMode":0,"displayName":"default","isLocked":false,"name":"508fdc7a-f8f9-4d4c-a444-d240270eee65","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"4249495b-aef0-4609-9666-ac208fa1fbba","blendMode":0,"displayName":"default","isLocked":false,"name":"4249495b-aef0-4609-9666-ac208fa1fbba","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"newbombheibattlefieldpaintingwarper",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Paintings",
-    "path":"folders/Sprites/Paintings.yy",
+    "name":"mega-new-super-mario-bros-restructed",
+    "path":"mega-new-super-mario-bros-restructed.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"32d3003c-ec57-4508-b3b4-bca650bb6128","path":"sprites/newbombheibattlefieldpaintingwarper/newbombheibattlefieldpaintingwarper.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"280dd6b3-4d13-4e67-ae22-d94067f17e97","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ecb74aef-a95e-413a-9387-529ec311df79","path":"sprites/newbombheibattlefieldpaintingwarper/newbombheibattlefieldpaintingwarper.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cb795c87-99b0-4c40-8e99-3298acba8e6d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -79,7 +79,7 @@
     "yorigin":0,
   },
   "swatchColours":null,
-  "swfPrecision":2.525,
+  "swfPrecision":0.5,
   "textureGroupId":{
     "name":"Default",
     "path":"texturegroups/Default",
