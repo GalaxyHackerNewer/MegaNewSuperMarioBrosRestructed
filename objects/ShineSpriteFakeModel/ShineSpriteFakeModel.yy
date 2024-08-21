@@ -1,11 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"ShineSpriteLevel1",
+  "%Name":"ShineSpriteFakeModel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":79,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":87,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ShineSpriteLevel1",
+  "name":"ShineSpriteFakeModel",
   "overriddenProperties":[],
   "parent":{
     "name":"CollectablesModels",
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"ShineSprite1",
-    "path":"sprites/ShineSprite1/ShineSprite1.yy",
+    "name":"shinespritefake",
+    "path":"sprites/shinespritefake/shinespritefake.yy",
   },
   "spriteMaskId":null,
   "visible":true,
