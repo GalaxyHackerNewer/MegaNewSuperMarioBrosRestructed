@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"HatenaBlueBlockSwitchModel",
-  "eventList":[],
+  "%Name":"grassblockbodyemodel",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"HatenaBlueBlockSwitchModel",
+  "name":"grassblockbodyemodel",
   "overriddenProperties":[],
   "parent":{
     "name":"BlocsModels",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"HathenaBlueSwitchFloorBlock",
-    "path":"sprites/HathenaBlueSwitchFloorBlock/HathenaBlueSwitchFloorBlock.yy",
+    "name":"grassblockbodye",
+    "path":"sprites/grassblockbodye/grassblockbodye.yy",
   },
   "spriteMaskId":null,
   "visible":true,
