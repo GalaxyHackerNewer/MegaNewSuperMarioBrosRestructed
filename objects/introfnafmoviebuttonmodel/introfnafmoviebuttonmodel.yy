@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"KingBombheiStatueModel",
+  "%Name":"introfnafmoviebuttonmodel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":17,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":112,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"KingBombheiStatueModel",
+  "name":"introfnafmoviebuttonmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DestroyablesModels",
-    "path":"folders/Objets/AnimationsModels/DestroyablesModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"KingBombheiStatue",
-    "path":"sprites/KingBombheiStatue/KingBombheiStatue.yy",
+    "name":"introfnafmoviebutton",
+    "path":"sprites/introfnafmoviebutton/introfnafmoviebutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,
