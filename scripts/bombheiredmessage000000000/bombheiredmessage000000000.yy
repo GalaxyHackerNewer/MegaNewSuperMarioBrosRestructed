@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"nokonokospeedermessage",
+  "%Name":"bombheiredmessage000000000",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"nokonokospeedermessage",
+  "name":"bombheiredmessage000000000",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

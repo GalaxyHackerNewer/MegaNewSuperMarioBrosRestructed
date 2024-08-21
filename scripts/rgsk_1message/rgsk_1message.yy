@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"nokonokospeedermessage",
+  "%Name":"rgsk_1message",
   "isCompatibility":false,
   "isDnD":true,
-  "name":"nokonokospeedermessage",
+  "name":"rgsk_1message",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

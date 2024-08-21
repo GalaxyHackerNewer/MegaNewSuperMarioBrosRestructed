@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"questionmarktowerdevbuildmessage",
   "isCompatibility":false,
   "isDnD":true,
