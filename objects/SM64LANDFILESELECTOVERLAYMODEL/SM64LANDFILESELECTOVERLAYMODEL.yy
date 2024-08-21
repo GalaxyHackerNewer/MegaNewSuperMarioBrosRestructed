@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"SMOSteamsGardensOverlayModel",
+  "%Name":"SM64LANDFILESELECTOVERLAYMODEL",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SMOSteamsGardensOverlayModel",
+  "name":"SM64LANDFILESELECTOVERLAYMODEL",
   "overriddenProperties":[],
   "parent":{
     "name":"OverlayModel",
@@ -31,12 +31,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SMOSteamGardensOverlay",
-    "path":"sprites/SMOSteamGardensOverlay/SMOSteamGardensOverlay.yy",
+    "name":"SM64LANDOVERLAY",
+    "path":"sprites/SM64LANDOVERLAY/SM64LANDOVERLAY.yy",
   },
-  "spriteMaskId":{
-    "name":"SMOSteamGardensOverlay",
-    "path":"sprites/SMOSteamGardensOverlay/SMOSteamGardensOverlay.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

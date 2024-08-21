@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"ShineSpriteModel",
+  "%Name":"skipbuttonmodel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":79,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ShineSpriteModel",
+  "name":"skipbuttonmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"CollectablesModels",
-    "path":"folders/Objets/CollectablesModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"ShineSprite",
-    "path":"sprites/ShineSprite/ShineSprite.yy",
+    "name":"skipbutton",
+    "path":"sprites/skipbutton/skipbutton.yy",
   },
   "spriteMaskId":null,
   "visible":true,
