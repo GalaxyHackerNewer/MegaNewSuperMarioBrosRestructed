@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"MinecraftCavallerModel",
+  "%Name":"medalcoinmodel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":66,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"MinecraftCavallerModel",
+  "name":"medalcoinmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"PNJSMODELS",
-    "path":"folders/Objets/PNJSMODELS.yy",
+    "name":"CollectablesModels",
+    "path":"folders/Objets/CollectablesModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +30,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"gregorythesnapsternotplayable",
-    "path":"sprites/gregorythesnapsternotplayable/gregorythesnapsternotplayable.yy",
+    "name":"medalcoin",
+    "path":"sprites/medalcoin/medalcoin.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"medalcoin",
+    "path":"sprites/medalcoin/medalcoin.yy",
+  },
   "visible":true,
 }
