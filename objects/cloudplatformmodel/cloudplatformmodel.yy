@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"DaisyFlowerModel",
+  "%Name":"cloudplatformmodel",
   "eventList":[],
   "managed":true,
-  "name":"DaisyFlowerModel",
+  "name":"cloudplatformmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
+    "name":"BlocsModels",
+    "path":"folders/Objets/BlocsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DaisyFlower",
-    "path":"sprites/DaisyFlower/DaisyFlower.yy",
+    "name":"cloudplatform",
+    "path":"sprites/cloudplatform/cloudplatform.yy",
   },
   "spriteMaskId":null,
   "visible":true,
