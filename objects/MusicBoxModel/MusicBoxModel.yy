@@ -2,15 +2,15 @@
   "$GMObject":"",
   "%Name":"MusicBoxModel",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"StickmanMovieTestModel","path":"objects/StickmanMovieTestModel/StickmanMovieTestModel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"StickmanMovieTestModel","path":"objects/StickmanMovieTestModel/StickmanMovieTestModel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"MusicBoxModel",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
