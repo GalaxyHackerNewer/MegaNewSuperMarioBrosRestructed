@@ -57,7 +57,7 @@ StreetPassMessageRoom=salle message StreetPass
 WiiConnect24MessageRoom=salle message WiiConnect24
 ZpotZassMessageRoom=salle message ZpotZass
 ZtreetZassMessageRoom=salle message ZtreetZass
-chooseiconselectmaindevlopperplumberappearroom=icône choisi galaxyhackernewer wip
+chooseiconselectmaindevlopperplumberappearroom=icône choisi galaxyhackernewer 
 chooseiconselectmaindevlopperplumberoldappearroom=icône choisi galaxyhackernewer ancien
 ChooseIconSelectMainDevlopperPlumberOldRoom=salle de galaxyhackernewer ancien
 chooseiconselectmaindevlopperplumberroom=salle de galaxyhackernewer
@@ -66,8 +66,8 @@ ChooseIconsFinalRoom=salle choix d'icône finale=salle choix d'icône fin wip
 ChooseIconsRoom=salle choix d'icônes 
 ChooseLanguageZoneFrenchRoom=salle langue française wip
 ChosseLanguageZoneRoom=salle choix langue wip
-insideprincessfalacastle=intérieur du château de la princesse fala (hall principal)
-insideprincessefalacastlepaintingroom=intérieur du châtaeu de la princesse fala salle peinture
+princessfalacastleinside=intérieur du château de la princesse fala (hall principal)
+princessfalacastleinsidepaintingroom=intérieur du châtaeu de la princesse fala (salle peinture)
 KingBombheiArea=aréne Roi Bob-Omb
 LoadingARoom=salle patienter 0%
 LoadingBRoom=salle patienter 50%
@@ -77,10 +77,12 @@ MovieIntroBloodRoom=film introduction sang
 MovieIntroBootRoom=film introduction grésillement
 MovieIntroGreenScreenRoom=film introduction écran vert
 MovieTitleScreenDissapearRoom=film disparition écran titre wip
-newbombheibattlefeldlevel=la nouvelle guerre des bobs-ombs
-newbombheibattlefieldlevelarea1=la nouvelle guerre des bobs-ombs aréne 1
-newbombheibattlefieldlevelarea2=la nouvelle guerre des bobs-ombs aréne 2
-NewBombheiBattlefieldSecretMountain=montagne secréte de la nouvelle guerre des bobs-ombs
+newbombheibattlefeldlevel=le nouveau champ de bataille des bobs-ombs
+newbombheibattlefieldlevelarea1=la nouveau champ de bataille des bobs-ombs aréne 1
+newbombheibattlefieldlevelarea2=le nouveau champ de bataille des bobs-ombs aréne 2
+newbombheibattlefieldsecretarea=montagne secréte de le nouveau champ de bataille des bobs-ombs
+nokonokospeedrace=course contre KoopaRapido le nouveau champ de bataille des bobs-ombs
+celestialpontoons=pontons célèstes zone secrète le nouveau champ de bataille des bobs-ombs
 others rooms coming really soon
 autres salles arrive vraiment bientôt
 
