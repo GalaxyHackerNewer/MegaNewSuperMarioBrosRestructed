@@ -21,4 +21,4 @@ for to know sprites, sounds and rooms of this game IMPORTANT!!!
 
 suscribe to GhnGamingLive on YouTube
 i don't possibility to upload alls sounds during this update it's that too big for GitHub but don't worry latest sounds is here https://www.mediafire.com/file/mqb66qp6hgo5p0s/sounds.packe/file it's that a packe file format you possibility to extract this file
-with 7-zip or WinRar it is required to know the extension that was present at the base before extracting
+with 7-zip it is required to know the extension that was present at the base before extracting
