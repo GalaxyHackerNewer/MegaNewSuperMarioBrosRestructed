@@ -17,7 +17,7 @@ github https://github.com/GalaxyHackerNewer
 mega new super mario bros now have a wiki https://gregvall1999.wixsite.com/ghnse/mnsmb-wiki
 and that's all don't forget read sprites_helpers.list-helperlist.list-roomslist.list
 for to know sprites, sounds and rooms of this game IMPORTANT!!!
-pjkoli patrol error!!!!!!!!
+
 PJKOLI PATROL ERROR!!!!!!!!
 i'm just an unused text
 suscribe to GhnGamingLive on YouTube
