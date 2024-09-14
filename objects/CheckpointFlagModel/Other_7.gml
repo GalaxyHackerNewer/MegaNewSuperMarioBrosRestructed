@@ -1,6 +1,5 @@
 /// @DnDAction : YoYo Games.Game.Save_Game
 /// @DnDVersion : 1
-/// @DnDHash : 50F921F1
-/// @DnDApplyTo : {CheckpointFlagModel}
+/// @DnDHash : 5A9178EB
 /// @DnDArgument : "filename" ""level.dats""
-with(CheckpointFlagModel) game_save("level.dats");
+game_save("level.dats");

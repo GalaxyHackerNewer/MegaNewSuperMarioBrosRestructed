@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"bridgenowarpermodel",
-  "eventList":[],
+  "%Name":"checkpointflagmodel",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"bridgenowarpermodel",
+  "name":"checkpointflagmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"FlagsModels",
+    "path":"folders/Objets/FlagsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"bridgenowarper",
-    "path":"sprites/bridgenowarper/bridgenowarper.yy",
+    "name":"CheckpointFlag",
+    "path":"sprites/CheckpointFlag/CheckpointFlag.yy",
   },
   "spriteMaskId":null,
   "visible":true,

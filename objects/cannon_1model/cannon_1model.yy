@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"bridgenowarpermodel",
-  "eventList":[],
+  "%Name":"cannon_1model",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"bridgenowarpermodel",
+  "name":"cannon_1model",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"Mecanisms",
+    "path":"folders/Objets/Mecanisms.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"bridgenowarper",
-    "path":"sprites/bridgenowarper/bridgenowarper.yy",
+    "name":"cannon_1",
+    "path":"sprites/cannon_1/cannon_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
