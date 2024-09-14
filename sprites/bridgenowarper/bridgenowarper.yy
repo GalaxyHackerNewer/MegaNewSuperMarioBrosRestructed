@@ -12,21 +12,21 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"1545ffc5-82c3-4c77-8695-6f84c44a06ad","name":"1545ffc5-82c3-4c77-8695-6f84c44a06ad","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0f771805-4bc4-46ee-84f5-8bddebfa03d0","name":"0f771805-4bc4-46ee-84f5-8bddebfa03d0","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"6e5fb1a0-5bb2-4e72-9a3b-6182bee959ff","blendMode":0,"displayName":"default","isLocked":false,"name":"6e5fb1a0-5bb2-4e72-9a3b-6182bee959ff","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"b871b9ab-1ad6-4f57-a840-7305b1859eee","blendMode":0,"displayName":"default","isLocked":false,"name":"b871b9ab-1ad6-4f57-a840-7305b1859eee","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"bridgenowarper",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"mega-new-super-mario-bros-restructed",
-    "path":"mega-new-super-mario-bros-restructed.yyp",
+    "name":"Blocs",
+    "path":"folders/Sprites/Blocs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1545ffc5-82c3-4c77-8695-6f84c44a06ad","path":"sprites/bridgenowarper/bridgenowarper.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"8d48f3b2-a53a-456f-ac96-8ab7f6c61b57","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0f771805-4bc4-46ee-84f5-8bddebfa03d0","path":"sprites/bridgenowarper/bridgenowarper.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"b569f6db-0fe3-41d8-aec2-fa3ab8524d16","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
