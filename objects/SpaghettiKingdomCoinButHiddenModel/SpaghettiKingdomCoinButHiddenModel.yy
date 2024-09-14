@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"SpaghettiKingdomCoinModel",
+  "%Name":"SpaghettiKingdomCoinButHiddenModel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":79,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":46,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SpaghettiKingdomCoinModel",
+  "name":"SpaghettiKingdomCoinButHiddenModel",
   "overriddenProperties":[],
   "parent":{
     "name":"CollectablesModels",
@@ -30,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SpaghettiKingdomCoin",
-    "path":"sprites/SpaghettiKingdomCoin/SpaghettiKingdomCoin.yy",
+    "name":"SpaghettiKingdomCoinButHidden",
+    "path":"sprites/SpaghettiKingdomCoinButHidden/SpaghettiKingdomCoinButHidden.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
