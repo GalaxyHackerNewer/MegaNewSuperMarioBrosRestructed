@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"DirtModel",
+  "%Name":"DataMessage0_1",
   "eventList":[],
   "managed":true,
-  "name":"DirtModel",
+  "name":"DataMessage0_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"Message",
+    "path":"folders/Objets/Message.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Dirt",
-    "path":"sprites/Dirt/Dirt.yy",
+    "name":"datamessagea_2",
+    "path":"sprites/datamessagea_2/datamessagea_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

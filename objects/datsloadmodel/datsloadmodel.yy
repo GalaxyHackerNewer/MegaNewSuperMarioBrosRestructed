@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"DirtModel",
-  "eventList":[],
+  "%Name":"datsloadmodel",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":9,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"DirtModel",
+  "name":"datsloadmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Dirt",
-    "path":"sprites/Dirt/Dirt.yy",
+    "name":"datsload",
+    "path":"sprites/datsload/datsload.yy",
   },
   "spriteMaskId":null,
   "visible":true,
