@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"grassblockbodyemodel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"grassblockbodycmodel_1",
+  "eventList":[],
   "managed":true,
-  "name":"grassblockbodyemodel",
+  "name":"grassblockbodycmodel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"BlocsModels",
@@ -30,12 +28,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"grassblockbodyd",
-    "path":"sprites/grassblockbodyd/grassblockbodyd.yy",
+    "name":"grassblockwall_2",
+    "path":"sprites/grassblockwall_2/grassblockwall_2.yy",
   },
-  "spriteMaskId":{
-    "name":"grassblockbodyd",
-    "path":"sprites/grassblockbodyd/grassblockbodyd.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

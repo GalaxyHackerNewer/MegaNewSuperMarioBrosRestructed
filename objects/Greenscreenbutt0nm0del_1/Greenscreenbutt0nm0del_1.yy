@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"grassblockbodyemodel",
+  "%Name":"Greenscreenbutt0nm0del_1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":18,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"grassblockbodyemodel",
+  "name":"Greenscreenbutt0nm0del_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"BlocsModels",
-    "path":"folders/Objets/BlocsModels.yy",
+    "name":"ButtonsModels",
+    "path":"folders/Objets/ButtonsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,12 +30,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"grassblockbodyd",
-    "path":"sprites/grassblockbodyd/grassblockbodyd.yy",
+    "name":"GreenScreenButt0n_2",
+    "path":"sprites/GreenScreenButt0n_2/GreenScreenButt0n_2.yy",
   },
   "spriteMaskId":{
-    "name":"grassblockbodyd",
-    "path":"sprites/grassblockbodyd/grassblockbodyd.yy",
+    "name":"GreenScreenButt0n_2",
+    "path":"sprites/GreenScreenButt0n_2/GreenScreenButt0n_2.yy",
   },
   "visible":true,
 }
