@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"DaddyBombheiModel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":75,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"DaisyFlowerModel_1",
+  "eventList":[],
   "managed":true,
-  "name":"DaddyBombheiModel",
+  "name":"DaisyFlowerModel_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"EnemiesModels",
-    "path":"folders/Objets/EnemiesModels.yy",
+    "name":"DecoModels",
+    "path":"folders/Objets/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"BombheiDaddy",
-    "path":"sprites/BombheiDaddy/BombheiDaddy.yy",
+    "name":"DaisyFlower_2",
+    "path":"sprites/DaisyFlower_2/DaisyFlower_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

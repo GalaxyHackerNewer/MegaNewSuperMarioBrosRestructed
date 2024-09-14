@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"DaddyBombheiModel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":75,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"CWFSasaMessageNameModel_1",
+  "eventList":[],
   "managed":true,
-  "name":"DaddyBombheiModel",
+  "name":"CWFSasaMessageNameModel_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"EnemiesModels",
-    "path":"folders/Objets/EnemiesModels.yy",
+    "name":"Message",
+    "path":"folders/Objets/Message.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"BombheiDaddy",
-    "path":"sprites/BombheiDaddy/BombheiDaddy.yy",
+    "name":"CWFSasaMessageName_3",
+    "path":"sprites/CWFSasaMessageName_3/CWFSasaMessageName_3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
