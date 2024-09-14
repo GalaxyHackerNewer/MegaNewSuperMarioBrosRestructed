@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"SDCardNoAnimModel",
+  "%Name":"SDCardNoAnimModel_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":48,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SDCardNoAnimModel",
+  "name":"SDCardNoAnimModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SdCardNoAnim",
-    "path":"sprites/SdCardNoAnim/SdCardNoAnim.yy",
+    "name":"SdCardNoAnim_2",
+    "path":"sprites/SdCardNoAnim_2/SdCardNoAnim_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

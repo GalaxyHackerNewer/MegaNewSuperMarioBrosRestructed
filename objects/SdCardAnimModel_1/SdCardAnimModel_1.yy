@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"SDCardNoAnimModel",
+  "%Name":"SdCardAnimModel_1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":48,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":59,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SDCardNoAnimModel",
+  "name":"SdCardAnimModel_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"AnimationsModels",
+    "path":"folders/Objets/AnimationsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"SdCardNoAnim",
-    "path":"sprites/SdCardNoAnim/SdCardNoAnim.yy",
+    "name":"SdCardAnim_2",
+    "path":"sprites/SdCardAnim_2/SdCardAnim_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
