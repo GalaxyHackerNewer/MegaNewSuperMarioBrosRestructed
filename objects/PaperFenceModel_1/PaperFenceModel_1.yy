@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"PaperFenceModel",
+  "%Name":"PaperFenceModel_1",
   "eventList":[],
   "managed":true,
-  "name":"PaperFenceModel",
+  "name":"PaperFenceModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"PaperFence",
-    "path":"sprites/PaperFence/PaperFence.yy",
+    "name":"PaperFence_2",
+    "path":"sprites/PaperFence_2/PaperFence_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

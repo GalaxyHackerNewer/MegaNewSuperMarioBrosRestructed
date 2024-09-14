@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"PaperFenceModel",
+  "%Name":"PansyFlowerModel_1",
   "eventList":[],
   "managed":true,
-  "name":"PaperFenceModel",
+  "name":"PansyFlowerModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"PaperFence",
-    "path":"sprites/PaperFence/PaperFence.yy",
+    "name":"PansyFlower_2",
+    "path":"sprites/PansyFlower_2/PansyFlower_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
