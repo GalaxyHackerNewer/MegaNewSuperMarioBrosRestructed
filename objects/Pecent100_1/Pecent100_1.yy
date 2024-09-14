@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"PaperFenceWarpModel",
+  "%Name":"Pecent100_1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"PaperFenceWarpModel",
+  "name":"Pecent100_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"Loading",
+    "path":"folders/Objets/Loading.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"PaperFenceWarp",
-    "path":"sprites/PaperFenceWarp/PaperFenceWarp.yy",
+    "name":"loading100percentmessagename_2",
+    "path":"sprites/loading100percentmessagename_2/loading100percentmessagename_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

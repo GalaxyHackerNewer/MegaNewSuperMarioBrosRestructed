@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"PaperFenceWarpModel",
+  "%Name":"PaperFenceWarpModel_1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel_1","path":"objects/maindevlopperplumberoldmodel_1/maindevlopperplumberoldmodel_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"PaperFenceWarpModel",
+  "name":"PaperFenceWarpModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"PaperFenceWarp",
-    "path":"sprites/PaperFenceWarp/PaperFenceWarp.yy",
+    "name":"PaperFenceWarp_2",
+    "path":"sprites/PaperFenceWarp_2/PaperFenceWarp_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
