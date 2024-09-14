@@ -11,8 +11,8 @@
   "name":"validatecube2model",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
+    "name":"Message",
+    "path":"folders/Objets/Message.yy",
   },
   "parentObjectId":null,
   "persistent":false,

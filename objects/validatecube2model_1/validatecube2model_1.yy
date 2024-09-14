@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"validatecubemodel",
+  "%Name":"validatecube2model_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":39,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,7 +8,7 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":40,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"validatecubemodel",
+  "name":"validatecube2model_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Message",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"validatecube",
-    "path":"sprites/validatecube/validatecube.yy",
+    "name":"validatecube_2",
+    "path":"sprites/validatecube_2/validatecube_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -6,8 +6,8 @@
   "name":"tinydesertpaintingmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"mega-new-super-mario-bros-restructed",
-    "path":"mega-new-super-mario-bros-restructed.yyp",
+    "name":"PaintingsModels",
+    "path":"folders/Objets/PaintingsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
