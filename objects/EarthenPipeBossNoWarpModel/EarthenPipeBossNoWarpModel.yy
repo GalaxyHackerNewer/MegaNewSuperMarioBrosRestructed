@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"EarthenPipeRetModel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"EarthenPipeBossNoWarpModel",
+  "eventList":[],
   "managed":true,
-  "name":"EarthenPipeRetModel",
+  "name":"EarthenPipeBossNoWarpModel",
   "overriddenProperties":[],
   "parent":{
     "name":"StructsModels",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"RetEarthenPipe",
-    "path":"sprites/RetEarthenPipe/RetEarthenPipe.yy",
+    "name":"EarhenPipeBossNoWarp",
+    "path":"sprites/EarhenPipeBossNoWarp/EarhenPipeBossNoWarp.yy",
   },
   "spriteMaskId":null,
   "visible":true,

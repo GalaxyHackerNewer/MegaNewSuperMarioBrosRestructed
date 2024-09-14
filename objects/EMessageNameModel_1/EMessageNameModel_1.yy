@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"EarthenPipeRetModel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"EMessageNameModel_1",
+  "eventList":[],
   "managed":true,
-  "name":"EarthenPipeRetModel",
+  "name":"EMessageNameModel_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"StructsModels",
-    "path":"folders/Objets/StructsModels.yy",
+    "name":"Message",
+    "path":"folders/Objets/Message.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"RetEarthenPipe",
-    "path":"sprites/RetEarthenPipe/RetEarthenPipe.yy",
+    "name":"LetterEmessagename_2",
+    "path":"sprites/LetterEmessagename_2/LetterEmessagename_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
