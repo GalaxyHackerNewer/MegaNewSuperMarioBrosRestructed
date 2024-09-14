@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"princessfalacastlebridgemodel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"PondModel_1",
+  "eventList":[],
   "managed":true,
-  "name":"princessfalacastlebridgemodel",
+  "name":"PondModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -28,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"princessfalacastlebridge",
-    "path":"sprites/princessfalacastlebridge/princessfalacastlebridge.yy",
+    "name":"Pond_2",
+    "path":"sprites/Pond_2/Pond_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
