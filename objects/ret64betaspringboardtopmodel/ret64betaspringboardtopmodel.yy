@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"RoseFlowerModel",
-  "eventList":[],
+  "%Name":"ret64betaspringboardtopmodel",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"RoseFlowerModel",
+  "name":"ret64betaspringboardtopmodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"Mecanisms",
+    "path":"folders/Objets/Mecanisms.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"RoseFlower",
-    "path":"sprites/RoseFlower/RoseFlower.yy",
+    "name":"ret64betaspringboardtop",
+    "path":"sprites/ret64betaspringboardtop/ret64betaspringboardtop.yy",
   },
   "spriteMaskId":null,
   "visible":true,

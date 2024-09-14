@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"RoseFlowerModel",
+  "%Name":"RoseFlowerModel_1",
   "eventList":[],
   "managed":true,
-  "name":"RoseFlowerModel",
+  "name":"RoseFlowerModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"RoseFlower",
-    "path":"sprites/RoseFlower/RoseFlower.yy",
+    "name":"RoseFlower_2",
+    "path":"sprites/RoseFlower_2/RoseFlower_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

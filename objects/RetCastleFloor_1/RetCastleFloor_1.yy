@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"RoseFlowerModel",
+  "%Name":"RetCastleFloor_1",
   "eventList":[],
   "managed":true,
-  "name":"RoseFlowerModel",
+  "name":"RetCastleFloor_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"BlocsModels",
+    "path":"folders/Objets/BlocsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"RoseFlower",
-    "path":"sprites/RoseFlower/RoseFlower.yy",
+    "name":"DefaultFloorBlock_2",
+    "path":"sprites/DefaultFloorBlock_2/DefaultFloorBlock_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

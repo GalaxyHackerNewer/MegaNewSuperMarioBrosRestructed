@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"RoseFlowerModel",
+  "%Name":"ret64betaspringboardbasemodel",
   "eventList":[],
   "managed":true,
-  "name":"RoseFlowerModel",
+  "name":"ret64betaspringboardbasemodel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"Mecanisms",
+    "path":"folders/Objets/Mecanisms.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +28,12 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"RoseFlower",
-    "path":"sprites/RoseFlower/RoseFlower.yy",
+    "name":"ret64betaspringboardbase",
+    "path":"sprites/ret64betaspringboardbase/ret64betaspringboardbase.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"ret64betaspringboardbase",
+    "path":"sprites/ret64betaspringboardbase/ret64betaspringboardbase.yy",
+  },
   "visible":true,
 }
