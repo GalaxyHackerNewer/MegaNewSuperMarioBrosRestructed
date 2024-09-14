@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"ShineSprite2",
-    "path":"sprites/ShineSprite2/ShineSprite2.yy",
+    "name":"ShineSprite",
+    "path":"sprites/ShineSprite/ShineSprite.yy",
   },
   "spriteMaskId":null,
   "visible":true,
