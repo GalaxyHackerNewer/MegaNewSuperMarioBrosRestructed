@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"DestroyablesModels",
-    "path":"folders/Objets/AnimationsModels/DestroyablesModels.yy",
+    "path":"folders/Objets/DestroyablesModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"KingBombheiStatue",
-    "path":"sprites/KingBombheiStatue/KingBombheiStatue.yy",
+    "name":"eaa6b188_61c8_4b2f_9aa6_0c7357c5385c",
+    "path":"sprites/eaa6b188_61c8_4b2f_9aa6_0c7357c5385c/eaa6b188_61c8_4b2f_9aa6_0c7357c5385c.yy",
   },
   "spriteMaskId":null,
   "visible":true,
