@@ -3,4 +3,4 @@
 /// @DnDHash : 53788F3C
 /// @DnDArgument : "room" "newbombheibattlefieldlevelarea1"
 /// @DnDSaveInfo : "room" "newbombheibattlefieldlevelarea1"
-room_goto(newbombheibattlefieldlevelarea1);
+room_goto(newbombheibattlefieldlevelarea2);

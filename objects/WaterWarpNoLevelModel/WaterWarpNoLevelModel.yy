@@ -6,8 +6,8 @@
   "name":"WaterWarpNoLevelModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/CollectablesModels/DecoModels.yy",
+    "name":"water lava etc model",
+    "path":"folders/Objets/water lava etc model.yy",
   },
   "parentObjectId":null,
   "persistent":false,

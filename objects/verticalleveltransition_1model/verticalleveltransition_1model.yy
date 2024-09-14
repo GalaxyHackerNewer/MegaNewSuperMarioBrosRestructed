@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"verticalleveltransitionmodel",
+  "%Name":"verticalleveltransition_1model",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"verticalleveltransitionmodel",
+  "name":"verticalleveltransition_1model",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"verticalleveltransition",
-    "path":"sprites/verticalleveltransition/verticalleveltransition.yy",
+    "name":"verticaleveltransition_1",
+    "path":"sprites/verticaleveltransition_1/verticaleveltransition_1.yy",
   },
   "spriteMaskId":null,
   "visible":false,

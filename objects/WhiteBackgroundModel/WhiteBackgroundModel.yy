@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"vanillastationpaintingmodel",
+  "%Name":"WhiteBackgroundModel",
   "eventList":[],
   "managed":true,
-  "name":"vanillastationpaintingmodel",
+  "name":"WhiteBackgroundModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"PaintingsModels",
-    "path":"folders/Objets/PaintingsModels.yy",
+    "name":"BackgroundsModels",
+    "path":"folders/Objets/BackgroundsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"vanillastationpainting",
-    "path":"sprites/vanillastationpainting/vanillastationpainting.yy",
+    "name":"WhiteBackground",
+    "path":"sprites/WhiteBackground/WhiteBackground.yy",
   },
   "spriteMaskId":null,
   "visible":true,
