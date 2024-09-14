@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"FakeGreenScreenModel",
+  "%Name":"FakeGreenScreenModel_1",
   "eventList":[],
   "managed":true,
-  "name":"FakeGreenScreenModel",
+  "name":"FakeGreenScreenModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"StructsModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"FakeGreenScreen",
-    "path":"sprites/FakeGreenScreen/FakeGreenScreen.yy",
+    "name":"FakeGreenScreen_2",
+    "path":"sprites/FakeGreenScreen_2/FakeGreenScreen_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
