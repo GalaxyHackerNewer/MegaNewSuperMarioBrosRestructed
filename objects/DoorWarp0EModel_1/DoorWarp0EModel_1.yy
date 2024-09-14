@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarp0HModel",
+  "%Name":"DoorWarp0EModel_1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberoldmodel","path":"objects/maindevlopperplumberoldmodel/maindevlopperplumberoldmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel_1","path":"objects/maindevlopperplumberold3Dmodel_1/maindevlopperplumberold3Dmodel_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"DoorWarp0HModel",
+  "name":"DoorWarp0EModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DoorWarp0H",
-    "path":"sprites/DoorWarp0H/DoorWarp0H.yy",
+    "name":"DoorWarp0E_2",
+    "path":"sprites/DoorWarp0E_2/DoorWarp0E_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
