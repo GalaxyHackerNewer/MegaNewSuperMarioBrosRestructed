@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"TableMainDevlopperPlumberOldHouseModel",
+  "%Name":"TableMainDevlopperPlumberOldHouseModel_1",
   "eventList":[],
   "managed":true,
-  "name":"TableMainDevlopperPlumberOldHouseModel",
+  "name":"TableMainDevlopperPlumberOldHouseModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"StructsModels",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"TableMainDevlopperPlumberOldHouse",
-    "path":"sprites/TableMainDevlopperPlumberOldHouse/TableMainDevlopperPlumberOldHouse.yy",
+    "name":"TableMainDevlopperPlumberOldHouse_2",
+    "path":"sprites/TableMainDevlopperPlumberOldHouse_2/TableMainDevlopperPlumberOldHouse_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
