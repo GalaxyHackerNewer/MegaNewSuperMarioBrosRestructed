@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"medalcoinmodel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":66,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"minecraftcavallertoiletmodel_1",
+  "eventList":[],
   "managed":true,
-  "name":"medalcoinmodel",
+  "name":"minecraftcavallertoiletmodel_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"CollectablesModels",
-    "path":"folders/Objets/CollectablesModels.yy",
+    "name":"StructsModels",
+    "path":"folders/Objets/StructsModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"medalcoin",
-    "path":"sprites/medalcoin/medalcoin.yy",
+    "name":"minecraftcavallertoilet_2",
+    "path":"sprites/minecraftcavallertoilet_2/minecraftcavallertoilet_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

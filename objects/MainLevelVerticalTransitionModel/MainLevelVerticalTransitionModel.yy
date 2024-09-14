@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"medalcoinmodel",
+  "%Name":"MainLevelVerticalTransitionModel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":66,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"medalcoinmodel",
+  "name":"MainLevelVerticalTransitionModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"CollectablesModels",
-    "path":"folders/Objets/CollectablesModels.yy",
+    "name":"DecoModels",
+    "path":"folders/Objets/DecoModels.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"medalcoin",
-    "path":"sprites/medalcoin/medalcoin.yy",
+    "name":"MainVerticalLevelTransition",
+    "path":"sprites/MainVerticalLevelTransition/MainVerticalLevelTransition.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
