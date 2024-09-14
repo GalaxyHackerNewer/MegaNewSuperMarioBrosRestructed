@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"NoButtonDModel",
+  "%Name":"NoButtonBModel_1",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"NoButtonDModel",
+  "name":"NoButtonBModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"ButtonsModels",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"NoButtonD",
-    "path":"sprites/NoButtonD/NoButtonD.yy",
+    "name":"NoButtonB_2",
+    "path":"sprites/NoButtonB_2/NoButtonB_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
