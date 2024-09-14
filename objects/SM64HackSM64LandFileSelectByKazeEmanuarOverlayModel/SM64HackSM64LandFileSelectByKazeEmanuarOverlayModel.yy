@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"SM63SecretCourseOverlayModel",
+  "%Name":"SM64HackSM64LandFileSelectByKazeEmanuarOverlayModel",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"SM63SecretCourseOverlayModel",
+  "name":"SM64HackSM64LandFileSelectByKazeEmanuarOverlayModel",
   "overriddenProperties":[],
   "parent":{
     "name":"OverlayModel",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"SM63SecretCourseOverlay",
-    "path":"sprites/SM63SecretCourseOverlay/SM63SecretCourseOverlay.yy",
+    "name":"SM64LANDOVERLAY",
+    "path":"sprites/SM64LANDOVERLAY/SM64LANDOVERLAY.yy",
   },
   "spriteMaskId":null,
   "visible":true,
