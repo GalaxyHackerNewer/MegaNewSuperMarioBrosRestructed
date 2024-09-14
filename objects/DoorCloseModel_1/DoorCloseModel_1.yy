@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"DoorWarop0AModel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"StickmanMovieTestModel","path":"objects/StickmanMovieTestModel/StickmanMovieTestModel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"DoorCloseModel_1",
+  "eventList":[],
   "managed":true,
-  "name":"DoorWarop0AModel",
+  "name":"DoorCloseModel_1",
   "overriddenProperties":[],
   "parent":{
     "name":"DecoModels",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"DoorWarp0A",
-    "path":"sprites/DoorWarp0A/DoorWarp0A.yy",
+    "name":"DoorClose_2",
+    "path":"sprites/DoorClose_2/DoorClose_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
