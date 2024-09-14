@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"newbombheibattlefieldpaintingmodel",
+  "%Name":"MusicBoxModel_1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":65,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"StickmanMovieTestModel_1","path":"objects/StickmanMovieTestModel_1/StickmanMovieTestModel_1.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"newbombheibattlefieldpaintingmodel",
+  "name":"MusicBoxModel_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"PaintingsModels",
-    "path":"folders/Objets/PaintingsModels.yy",
+    "name":"Boxs",
+    "path":"folders/Objets/Boxs.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"newbombheibattlefieldpainting",
-    "path":"sprites/newbombheibattlefieldpainting/newbombheibattlefieldpainting.yy",
+    "name":"MusicBox_2",
+    "path":"sprites/MusicBox_2/MusicBox_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

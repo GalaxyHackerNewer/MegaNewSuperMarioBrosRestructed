@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"newbombheibattlefieldpaintingmodel",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":65,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"newbombheibattlefieldscenarionamemodel1",
+  "eventList":[],
   "managed":true,
-  "name":"newbombheibattlefieldpaintingmodel",
+  "name":"newbombheibattlefieldscenarionamemodel1",
   "overriddenProperties":[],
   "parent":{
-    "name":"PaintingsModels",
-    "path":"folders/Objets/PaintingsModels.yy",
+    "name":"Message",
+    "path":"folders/Objets/Message.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"newbombheibattlefieldpainting",
-    "path":"sprites/newbombheibattlefieldpainting/newbombheibattlefieldpainting.yy",
+    "name":"newbombheibattlefieldscenarionamemessagename1",
+    "path":"sprites/newbombheibattlefieldscenarionamemessagename1/newbombheibattlefieldscenarionamemessagename1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

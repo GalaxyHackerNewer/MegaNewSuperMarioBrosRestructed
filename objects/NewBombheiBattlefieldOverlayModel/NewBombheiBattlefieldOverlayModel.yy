@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"newbombheibattlefieldpaintingwarpermodel",
+  "%Name":"NewBombheiBattlefieldOverlayModel",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"maindevlopperplumberold3Dmodel","path":"objects/maindevlopperplumberold3Dmodel/maindevlopperplumberold3Dmodel.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":80,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":83,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"newbombheibattlefieldpaintingwarpermodel",
+  "name":"NewBombheiBattlefieldOverlayModel",
   "overriddenProperties":[],
   "parent":{
-    "name":"DecoModels",
-    "path":"folders/Objets/DecoModels.yy",
+    "name":"OverlayModel",
+    "path":"folders/Objets/OverlayModel.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"newbombheibattlefieldpainingwarper",
-    "path":"sprites/newbombheibattlefieldpainingwarper/newbombheibattlefieldpainingwarper.yy",
+    "name":"NewBombheiBattlefieldOverlay",
+    "path":"sprites/NewBombheiBattlefieldOverlay/NewBombheiBattlefieldOverlay.yy",
   },
   "spriteMaskId":null,
   "visible":true,
