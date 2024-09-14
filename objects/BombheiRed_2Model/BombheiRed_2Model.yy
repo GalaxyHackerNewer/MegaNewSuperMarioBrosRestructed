@@ -2,7 +2,7 @@
   "$GMObject":"",
   "%Name":"BombheiRed_2Model",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":84,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"BombheiRed_2Model",
@@ -28,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"BombheiRed_2",
-    "path":"sprites/BombheiRed_2/BombheiRed_2.yy",
+    "name":"bombheired2",
+    "path":"sprites/bombheired2/bombheired2.yy",
   },
   "spriteMaskId":null,
   "visible":true,

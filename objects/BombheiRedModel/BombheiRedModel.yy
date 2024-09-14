@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"BombheiRed",
-    "path":"sprites/BombheiRed/BombheiRed.yy",
+    "name":"bombheired",
+    "path":"sprites/bombheired/bombheired.yy",
   },
   "spriteMaskId":null,
   "visible":true,
