@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"SdCardAnim",
+  "%Name":"SdCardAnim_2",
   "bboxMode":0,
   "bbox_bottom":54,
   "bbox_left":12,
@@ -23,7 +23,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"1a8001f8-c180-4823-a8d1-749eb745dd16","blendMode":0,"displayName":"default","isLocked":false,"name":"1a8001f8-c180-4823-a8d1-749eb745dd16","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"SdCardAnim",
+  "name":"SdCardAnim_2",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -35,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"SdCardAnim",
+    "%Name":"SdCardAnim_2",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -59,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"SdCardAnim",
+    "name":"SdCardAnim_2",
     "playback":1,
     "playbackSpeed":3.0,
     "playbackSpeedType":0,
@@ -71,13 +71,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d9a75c6-90cd-44d7-a834-bdd119481674","path":"sprites/SdCardAnim/SdCardAnim.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d9a75c6-90cd-44d7-a834-bdd119481674","path":"sprites/SdCardAnim_2/SdCardAnim_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1b719c6f-3bbf-4d47-bbe0-812af0ff3ed1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a3b1b5e0-f1bf-44e0-b4ed-5589aa767f6e","path":"sprites/SdCardAnim/SdCardAnim.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a3b1b5e0-f1bf-44e0-b4ed-5589aa767f6e","path":"sprites/SdCardAnim_2/SdCardAnim_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"0c2babd3-3b4e-4230-870b-2f87cfd91273","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a044a22f-59a5-42b4-97cb-79d2d798347e","path":"sprites/SdCardAnim/SdCardAnim.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a044a22f-59a5-42b4-97cb-79d2d798347e","path":"sprites/SdCardAnim_2/SdCardAnim_2.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b50dc8a8-083e-4917-8f02-746c50951249","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
