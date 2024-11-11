@@ -37,5 +37,5 @@ echo hello %nom%
 
 @echo on
 set dossier=%programfiles%\VideoLAN\VLC\
-"%dossier%\vlc.exe" -vvv --codec ffmpeg C:\Users\gregv\Documents\Github\MegaNewSuperMarioBrosRestructed\SSBB-Main_Theme-AJ.sound
-"%dossier%\vlc.exe" -vvv --codec ffmpeg C:\Users\gregv\Documents\Github\MegaNewSuperMarioBrosRestructed\sounds\NNFBFSS\000000000.voice
+"%dossier%\vlc.exe" -vvv --codec ffmpeg C:\Users\GhnGaming\Documents\Usefuls\MegaNewSuperMarioBrosRestructed\SSBB-Main_Theme-AJ.sound
+"%dossier%\vlc.exe" -vvv --codec ffmpeg C:\Users\GhnGaming\Documents\Usefuls\MegaNewSuperMarioBrosRestructed\sounds\NNFBFSS\000000000.voice
